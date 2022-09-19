@@ -1,0 +1,14 @@
+picture_path: 01/gallery
+pictures:
+- filename: 01-dort
+  original: 01-dort-347x509.jpg
+  sizes: []
+  thumbnail: 01-dort-347x509.jpg
+- filename: 02-krajeni
+  original: 02-krajeni-1992x920.jpg
+  sizes: []
+  thumbnail: 02-krajeni-1992x920.jpg
+- filename: 03-ucastnici
+  original: 03-ucastnici-2048x1536.jpg
+  sizes: []
+  thumbnail: 03-ucastnici-2048x1536.jpg

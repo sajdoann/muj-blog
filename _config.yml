@@ -6,24 +6,70 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Adding a Gallery to Jekyll
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  This website is an example on how to use my gallery blog post to add a
-  photo gallery to your blog/website.
-baseurl: "/jekyll-image-gallery-example" # the subpath of your site, e.g. /blog
-url: "//opieters.github.io" # the base hostname & protocol for your site
+title: Můj blog ...
+author: sajdoann
+email: sajdokova@gmail.com
+github_username:  sajdoann # DO NOT include the @ character, or else the build will fail!
+locale: cs-CZ
+
+
+#theme: minima
+#url: "//opieters.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
 markdown: kramdown
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jemoji
+  - jekyll-remote-theme
+
 defaults:
-  -
-    scope:
+  - scope:
       path: "photography"
     values:
       permalink: /:path/:basename:output_ext
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
 
 exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]
+
+
+# Site Author
+author: 
+  name: Anna Sajdoková
+  picture: images/isc_sajdokova.png
+  email: sajdokova@gmail.com
+  # twitter:
+  links:
+    - title: Instagram
+      url: https://instagram.com/sajdoann
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/sajdoann
+      icon: fab fa-github-square
+    - title: Facebook
+      url: https://facebook.com/sajdoann
+      icon: fab fa-facebook-square
+
+# Footer Links
+footer_links:
+  - title: Instagram
+    url: https://instagram.com/sajdoann
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/sajdoann
+    icon: fab fa-github-square
+  - title: Facebook
+    url: https://facebook.com/sajdoann
+    icon: fab fa-facebook-square

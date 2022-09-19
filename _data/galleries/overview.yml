@@ -1,23 +1,30 @@
 -
- title: A Very Basic Example Gallery
- directory: san-francisco
+ title: Propuštěna z karantény
+ directory: 03-vzduch
+ picture_path: images/03
  preview:
-  filename: VS-2012-6088
-  original: VS-2012-6088-6000x4000.jpg
+  filename: cover_th.jpgi
+  original: cover_th.jpg
   sizes:
-  - VS-2012-6088-4242x2828.jpg
-  - VS-2012-6088-2121x1414.jpg
-  - VS-2012-6088-2999x1999.jpg
-  thumbnail: VS-2012-6088-thumbnail.jpg
+  - cover_th.jpg
+  thumbnail: cover_th.jpg
 -
- title: A More Complicated Example Gallery
- directory: ghent-light-festival
- picture_path: ghent-light-festival/part1
+ title: Cesta tam a ne zpět - naštěstí
+ directory: 02-cesta
+ picture_path: images/02
  preview:
-  filename: Lichtfestival-0058
-  original: Lichtfestival-0058-6000x4000.jpg
+  filename: obed_th.jpg
+  original: obed_th.jpg
   sizes:
-  - Lichtfestival-0058-2121x1414.jpg
-  - Lichtfestival-0058-2999x1999.jpg
-  - Lichtfestival-0058-4242x2828.jpg
-  thumbnail: Lichtfestival-0058-thumbnail.jpg
+  - obed_th.jpg
+  thumbnail: obed_th.jpg
+-
+ title: A budou ti ty mandarinky rozumnět?
+ directory: 01-mandarinky
+ picture_path: images/01
+ preview:
+  filename: mandarinky_th.jpg
+  original:  mandarinky_th.jpg
+  sizes:
+  -  mandarinky_th.jpg
+  thumbnail:  mandarinky_th.jpg

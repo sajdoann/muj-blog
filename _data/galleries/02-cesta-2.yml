@@ -1,0 +1,10 @@
+picture_path: 02/gallery2
+pictures:
+- filename: 04-bento
+  original: 04-bento-2992x4000.jpg
+  sizes: []
+  thumbnail: 04-bento-2992x4000.jpg
+- filename: 05-obed
+  original: 05-obed-4000x2992.jpg
+  sizes: []
+  thumbnail: 05-obed-4000x2992.jpg

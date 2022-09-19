@@ -1,0 +1,40 @@
+picture_path: 03/gallery-1
+pictures:
+- filename: 01-cards
+  original: 01-cards-2992x4000.jpg
+  sizes: []
+  thumbnail: 01-cards-2992x4000.jpg
+  title: easycard
+  caption: Katričky do metra
+- filename: 02-metro
+  original: 02-metro-4000x2992.jpg
+  sizes: []
+  thumbnail: 02-metro-4000x2992.jpg
+- filename: 03-doors
+  original: 03-doors-2992x4000.jpg
+  sizes: []
+  thumbnail: 03-doors-2992x4000.jpg
+- filename: 04-dorm
+  original: 04-dorm-2992x4000.jpg
+  sizes: []
+  thumbnail: 04-dorm-2992x4000.jpg
+- filename: 05-sheets
+  original: 05-sheets-2992x4000.jpg
+  sizes: []
+  thumbnail: 05-sheets-2992x4000.jpg
+- filename: 06-market
+  original: 06-market-2992x4000.jpg
+  sizes: []
+  thumbnail: 06-market-2992x4000.jpg
+- filename: 07-dfruit
+  original: 07-dfruit-2992x4000.jpg
+  sizes: []
+  thumbnail: 07-dfruit-2992x4000.jpg
+- filename: 08-breakfast
+  original: 08-breakfast-2992x4000.jpg
+  sizes: []
+  thumbnail: 08-breakfast-2992x4000.jpg
+- filename: 09-menu
+  original: 09-menu-2992x4000.jpg
+  sizes: []
+  thumbnail: 09-menu-2992x4000.jpg

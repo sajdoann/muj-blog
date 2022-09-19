@@ -204,3 +204,9 @@ pre {
         }
     }
 }
+
+.site-title::before {
+content: url("/favicons/favicon-32x32.png");
+display: inline-block;
+position: relative;
+}
