@@ -54,22 +54,24 @@ author:
   links:
     - title: Instagram
       url: https://instagram.com/sajdoann
-      icon: fab fa-instagram
+      icon: fa fa-instagram
     - title: GitHub
       url: https://github.com/sajdoann
-      icon: fab fa-github-square
+      icon: fa fa-github-square
     - title: Facebook
       url: https://facebook.com/sajdoann
-      icon: fab fa-facebook-square
+      icon: fa fa-facebook-square
 
 # Footer Links
 footer_links:
-  - title: Instagram
-    url: https://instagram.com/sajdoann
-    icon: fab fa-instagram
-  - title: GitHub
-    url: https://github.com/sajdoann
-    icon: fab fa-github-square
-  - title: Facebook
-    url: https://facebook.com/sajdoann
-    icon: fab fa-facebook-square
+ - title: Instagram
+   url: https://instagram.com/sajdoann
+   icon: fa fa-instagram
+ - title: GitHub
+   url: https://github.com/sajdoann
+   icon: fa fa-github-square
+ - title: Facebook
+   url: https://facebook.com/sajdoann
+   icon: fa fa-facebook-square
+
+
