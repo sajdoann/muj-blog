@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Můj blog ...
+title: Andy cesty
 author: sajdoann
 email: sajdokova@gmail.com
 github_username:  sajdoann # DO NOT include the @ character, or else the build will fail!
@@ -17,7 +17,7 @@ logo: /favicons/android-chrome-384x384.png
 read_time: true
 words_per_minute: 200
 
-paginate: 2  # amount of posts to show per page
+paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 
 # Build settings

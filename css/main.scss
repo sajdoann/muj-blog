@@ -50,6 +50,11 @@ a.a-headline:visited, a.a-headline {
 a:visited{
 		color: black !important;
 }
+
+a.social-icon {
+    color: black;
+}
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {

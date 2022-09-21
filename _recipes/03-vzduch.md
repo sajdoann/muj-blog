@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: "Na vzduchu"
+title: "Propuštěna z karantény"
 no_menu_item: true # required only for this example website because of menu construction
 date: 2022-09-10 
 image:
@@ -8,9 +8,9 @@ image:
 support: [jquery, gallery]
 ---
 
-Propuštěna z karantény.
+Čerstvý vzduch - teda rouška, horko a vlhko.
 
-Večer, ehm totiž v 1 ráno, jsem si říkalai, ať jdu konečně spát. Zítra mě čekal první den venku. Oficiálně. Na vzduchu. S lidma. Svět větší jak 15 $m^2$ mého hotelového pokoje.
+Večer, ehm totiž v 1 ráno, jsem si říkalai, ať jdu konečně spát. Zítra mě čekal první den venku. Oficiálně. Na vzduchu. S lidma. Svět větší jak 15 m<sup>2</sup> mého hotelového pokoje.
 
 V karanténním hotelu se dalo leda 3x denně jíst bento, válet se v posteli, spát ve dne, objednat si horkou čokoládu, koukat na seriály, dělat Duolinguo, programovat a nemoci v noci usnout. No, další den byla změna.
 
