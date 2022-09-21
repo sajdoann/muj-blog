@@ -27,4 +27,5 @@ Taiwanci jsou moc milí. Poradí, zeptají se, když člověk vypadá zmateně n
 ## Výlet k Chiang Kai-shek Memorial Hall
  
 {% include gallery-layout.html gallery=site.data.galleries.04-prvniden-2     id_number=2 %}
-
+## školofotky
+{% include gallery-layout.html gallery=site.data.galleries.04-prvniden-3        id_number=3 %}
