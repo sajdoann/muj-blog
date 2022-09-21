@@ -7,11 +7,7 @@
     {% assign entries = entries | sort: 'title' %}
   {% endif %}
 {% elsif include.sort_by == 'date' %}
-  {% if include.sort_order == 'reverse' %}
     {% assign entries = entries | sort: 'date' | reverse %}
-  {% else %}
-    {% assign entries = entries | sort: 'date' %}
-  {% endif %}
 {% endif %}
 
 {%- for entry in entries -%}

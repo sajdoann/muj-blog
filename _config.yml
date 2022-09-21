@@ -13,10 +13,12 @@ github_username:  sajdoann # DO NOT include the @ character, or else the build w
 locale: cs-CZ
 
 
-#theme: minima
-#url: "//opieters.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+logo: /favicons/android-chrome-384x384.png
+read_time: true
+words_per_minute: 200
+
+paginate: 2  # amount of posts to show per page
+paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
@@ -29,18 +31,32 @@ plugins:
   - jemoji
   - jekyll-remote-theme
 
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: date
+    sort_order: reverse
+
+# Front Matter Defaults
 defaults:
+  # Post defaults
   - scope:
-      path: "photography"
-    values:
-      permalink: /:path/:basename:output_ext
-  # Posts defaults
-  - scope:
-      path: "_posts"
+      path: "_recipes"
       type: posts
     values:
       layout: post
+      comments: true
       share: true
+  # blogs defaults
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      comments: true
+      share: false
 
 exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]
 

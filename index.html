@@ -1,8 +1,13 @@
 ---
-layout: default
+layout: collection
+collection: recipes
+paginate: true
+entries_layout: grid
+paginate: true
+sort_by: date
+posts_limit: 2
 ---
 
-<h1>{{ page.title }}</h1>
 
 <p>
 Blog o škole, cestování, kultuře, jídle a malých i velkých chvilkách jedný holky z Prahy. Také to můžem nazvat zpravodajská stanice z Taiwanu mé rodince, přátelům, budoucím exchange studentům NTUT a dalším, kdo si najdou chvilku se začíst.
@@ -11,27 +16,3 @@ Blog o škole, cestování, kultuře, jídle a malých i velkých chvilkách jed
 Přeji pěkné počtení. :sparkles:
 </p>
 
-{% assign count = 0 %}
-{% assign align = "left" %}
-{% for gallery in site.data.galleries.overview %}
-{% if count == 0 %}<div class="row">{% endif %}
-  <div class="half-width gallery-preview {{ align }}">
-    <a href="{{ site.url }}{{ site.baseurl }}/posts/{{ gallery.directory }}.html">
-      <img alt="{{ gallery.title }}" src="{{ site.url }}{{ site.baseurl }}/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
-    </a>
-	<a href="{{ site.url }}{{ site.baseurl }}/posts/{{ gallery.directory }}.html" style="color: #000000; text-decoration: none;"> 
-			<h1>{{ gallery.title }}</h1>
-	</a>
-  </div>
-{% if count == 1 %}</div>{% endif %}
-{% assign count = count | plus: 1 %}
-{% assign align = "right" %}
-{% if count >= 2 %}
-{% assign align = "left" %}
-{% assign count = 0 %}
-{% endif %}
-{% endfor %}
-
-{% if count != 1 %}
-</div>
-{% endif %}

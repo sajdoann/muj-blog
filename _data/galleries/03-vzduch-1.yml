@@ -10,6 +10,8 @@ pictures:
   original: 02-metro-4000x2992.jpg
   sizes: []
   thumbnail: 02-metro-4000x2992.jpg
+  title: metro
+  caption: Mají přehledné metro, jen bohužel při srovnání s pražským tu student na dojíždění zaplatí postatně více. Pro mě cca 1000 kč měsíčně, kdybych jezdila jen do školy a zpět.
 - filename: 03-doors
   original: 03-doors-2992x4000.jpg
   sizes: []
@@ -18,23 +20,31 @@ pictures:
   original: 04-dorm-2992x4000.jpg
   sizes: []
   thumbnail: 04-dorm-2992x4000.jpg
+  title: nádvoří kolejí
 - filename: 05-sheets
   original: 05-sheets-2992x4000.jpg
   sizes: []
   thumbnail: 05-sheets-2992x4000.jpg
+  title: Povlečení
+  caption: koupené v "japonské Ikee" - Nitori
 - filename: 06-market
   original: 06-market-2992x4000.jpg
   sizes: []
   thumbnail: 06-market-2992x4000.jpg
+  title: Mají i supermarkety
+  caption: Ačkoliv tu najde člověk i supermarket, jídlo koupené na ulici je drahé podobně či méně.
 - filename: 07-dfruit
   original: 07-dfruit-2992x4000.jpg
   sizes: []
   thumbnail: 07-dfruit-2992x4000.jpg
+  title: svačinka
 - filename: 08-breakfast
   original: 08-breakfast-2992x4000.jpg
   sizes: []
   thumbnail: 08-breakfast-2992x4000.jpg
+  title: snídaně - mají křupínky
 - filename: 09-menu
   original: 09-menu-2992x4000.jpg
   sizes: []
   thumbnail: 09-menu-2992x4000.jpg
+  title: obědnávací lístek v restauraci

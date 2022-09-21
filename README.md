@@ -1,19 +1,14 @@
-# A Jekyll Image Gallery
+# Můj blog ...
 
-This website illustrates how to integrate a lightGallery/Isotope photo gallery into a Jekyll website. Two example galleries are included. This solution is GitHub Pages friendly and does not require a custom plugin.
+Github repozitář k mým webovým stránkám. 
 
-## Installing
 
-1. Clone the git repo: `git clone https://github.com/opieters/jekyll-image-gallery-example.git`
-2. Change folder: `cd jekyll-image-gallery-example`
-3. Install Jekyll: `gem install jekyll`
+odkaz: [https://sajdoann.github.io](https://sajdoann.github.io)
 
-## Run the Website and Make It Your Own
+## Ukázka 
 
-Run the website with `jekyll s`. Or just view the [GitHub Pages version](https://opieters.github.io/jekyll-image-gallery-example/). To [view the gallery](https://opieters.github.io/jekyll-image-gallery-example/photography/) click on the photography menu item.
 
-[This blogpost](http://www.olivierpieters.be/blog/2016/02/26/creating-a-jekyll-image-gallery.html) explains different parts of the gallery and design choices. Use this guide and the files in this repo to make your own photo gallery.
-
-## License
-
-The code is licensed under MIT license (see LICENSE-CODE.md). The images in the `assets/photography` folder are licensed under CC-BY-NC-SA license (see LICENSE-IMAGES.md).
+## O stránkách
+- stránky jsou dělané pomocí [github pages](https://pages.github.com/)
+- Používám remote theme [so-simple-theme](https://github.com/mmistakes/so-simple-theme/blob/master/docs/recipes.md)
+- galerie je převzatá z [optiers github](https://github.com/opieters/jekyll-image-gallery-example)
