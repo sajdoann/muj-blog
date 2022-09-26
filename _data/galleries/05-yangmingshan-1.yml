@@ -2,107 +2,182 @@ picture_path: 05/gallery-1
 pictures:
 - filename: 20220916_113335-steam
   original: 20220916_113335-steam-2992x4000.jpg
-  sizes: []
-  thumbnail: 20220916_113335-steam-2992x4000.jpg
-  title: vzdálená fumarola
+  sizes:
+  - 20220916_113335-steam-437x583.jpg
+  - 20220916_113335-steam-748x1000.jpg
+  thumbnail: 20220916_113335-steam-748x1000.jpg
+  title: "vzd\xE1len\xE1 fumarola"
 - filename: 20220916_125208-npview
   original: 20220916_125208-npview-2992x4000.jpg
-  sizes: []
-  thumbnail: 20220916_125208-npview-2992x4000.jpg
-  title: výhled v NP
-- filename: 20220916_145410-bridge
+  sizes:
+  - 20220916_125208-npview-472x631.jpg
+  - 20220916_125208-npview-748x1000.jpg
+  thumbnail: 20220916_125208-npview-748x1000.jpg
+  title: "v\xFDhled v NP"
+- caption: "M\xEDstn\xED je maj\xED moc r\xE1di. Zat\xEDm jsme potkali podobn\xFD\
+    \ most na ka\u017Ed\xE9m v\xFDlet\u011B."
+  filename: 20220916_145410-bridge
   original: 20220916_145410-bridge-4000x2992.jpg
-  sizes: []
-  thumbnail: 20220916_145410-bridge-4000x2992.jpg
+  sizes:
+  - 20220916_145410-bridge-1000x748.jpg
+  - 20220916_145410-bridge-642x480.jpg
+  thumbnail: 20220916_145410-bridge-642x480.jpg
   title: Suspension bridge
-  caption: Místní je mají moc rádi. Zatím jsme potkali podobný most na každém výletě.
 - filename: 20220916_155251-route
   original: 20220916_155251-route-2992x4000.jpg
-  sizes: []
-  thumbnail: 20220916_155251-route-2992x4000.jpg
+  sizes:
+  - 20220916_155251-route-608x813.jpg
+  - 20220916_155251-route-748x1000.jpg
+  thumbnail: 20220916_155251-route-748x1000.jpg
 - filename: 20220916_155302-routeD
   original: 20220916_155302-routeD-2992x4000.jpg
-  sizes: []
-  thumbnail: 20220916_155302-routeD-2992x4000.jpg
+  sizes:
+  - 20220916_155302-routeD-592x792.jpg
+  - 20220916_155302-routeD-748x1000.jpg
+  thumbnail: 20220916_155302-routeD-748x1000.jpg
 - filename: 20220916_162954-buffalo
   original: 20220916_162954-buffalo-2992x4000.jpg
-  sizes: []
-  thumbnail: 20220916_162954-buffalo-2992x4000.jpg
-- filename: 20220917_073836-protbuffalo
+  sizes:
+  - 20220916_162954-buffalo-424x567.jpg
+  - 20220916_162954-buffalo-748x1000.jpg
+  thumbnail: 20220916_162954-buffalo-748x1000.jpg
+- caption: "Pokud v\xE1s za\u010Dne obt\u011B\u017Eovat buvol, neot\xE1\u010Dejte\
+    \ s ek n\u011Bmu z\xE1dy, pomalu kr\xE1\u010Dejte a projd\u011Bte jedn\xEDm z\
+    \ otvor\u016F mezi ty\u010Demi... :)"
+  filename: 20220917_073836-protbuffalo
   original: 20220917_073836-protbuffalo-2992x4000.jpg
-  sizes: []
-  thumbnail: 20220917_073836-protbuffalo-2992x4000.jpg
-  title: Ochrana proti buvolům
-  caption: Pokud vás začne obtěžovat buvol, neotáčejte s ek němu zády, pomalu kráčejte a projděte jedním z otvorů mezi tyčemi... :)
+  sizes:
+  - 20220917_073836-protbuffalo-386x516.jpg
+  - 20220917_073836-protbuffalo-748x1000.jpg
+  thumbnail: 20220917_073836-protbuffalo-748x1000.jpg
+  title: "Ochrana proti buvol\u016Fm"
 - filename: 20220917_080248-viewnp
   original: 20220917_080248-viewnp-4000x2992.jpg
-  sizes: []
-  thumbnail: 20220917_080248-viewnp-4000x2992.jpg
+  sizes:
+  - 20220917_080248-viewnp-1000x748.jpg
+  - 20220917_080248-viewnp-631x472.jpg
+  thumbnail: 20220917_080248-viewnp-631x472.jpg
 - filename: 20220917_080252-route
   original: 20220917_080252-route-2992x4000.jpg
-  sizes: []
-  thumbnail: 20220917_080252-route-2992x4000.jpg
+  sizes:
+  - 20220917_080252-route-412x550.jpg
+  - 20220917_080252-route-748x1000.jpg
+  thumbnail: 20220917_080252-route-748x1000.jpg
 - filename: 20220917_090903-cementery_entrance
   original: 20220917_090903-cementery_entrance-4000x2992.jpg
-  sizes: []
-  title: Vstup na vojenský hřbitov
-  thumbnail: 20220917_090903-cementery_entrance-4000x2992.jpg
+  sizes:
+  - 20220917_090903-cementery_entrance-1000x748.jpg
+  - 20220917_090903-cementery_entrance-717x536.jpg
+  thumbnail: 20220917_090903-cementery_entrance-717x536.jpg
+  title: "Vstup na vojensk\xFD h\u0159bitov"
 - filename: IMG_20220917_091524-cementry
   original: IMG_20220917_091524-cementry-4000x2992.jpg
-  sizes: []
-  thumbnail: IMG_20220917_091524-cementry-4000x2992.jpg
-- filename: IMG_20220917_101447-view
+  sizes:
+  - IMG_20220917_091524-cementry-1000x748.jpg
+  - IMG_20220917_091524-cementry-681x509.jpg
+  thumbnail: IMG_20220917_091524-cementry-681x509.jpg
+- caption: "Tam v\u0161ude jsme \u0161li :)"
+  filename: IMG_20220917_101447-view
   original: IMG_20220917_101447-view-2992x4000.jpg
-  sizes: []
-  title: Hřeben
-  caption: Tam všude jsme šli :)
-  thumbnail: IMG_20220917_101447-view-2992x4000.jpg
+  sizes:
+  - IMG_20220917_101447-view-505x674.jpg
+  - IMG_20220917_101447-view-748x1000.jpg
+  thumbnail: IMG_20220917_101447-view-748x1000.jpg
+  title: "H\u0159eben"
 - filename: IMG_20220917_174109-pond
   original: IMG_20220917_174109-pond-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220917_174109-pond-2992x4000.jpg
-- filename: IMG_20220917_181456-sleep_view
+  sizes:
+  - IMG_20220917_174109-pond-502x671.jpg
+  - IMG_20220917_174109-pond-748x1000.jpg
+  thumbnail: IMG_20220917_174109-pond-748x1000.jpg
+- caption: "A tak\xE9 bohu\u017Eel stanov\xE1n\xED hned vedle cesty. Ale aspo\u0148\
+    \ mimo n\xE1r    odn\xED park s buvoly..."
+  filename: IMG_20220917_181456-sleep_view
   original: IMG_20220917_181456-sleep_view-2992x4000.jpg
-  sizes: []
-  title: Výhled skoro ze stanu
-  caption: A také bohužel stanování hned vedle cesty. Ale aspoň mimo nár    odní park s buvoly...
-  thumbnail: IMG_20220917_181456-sleep_view-2992x4000.jpg
+  sizes:
+  - IMG_20220917_181456-sleep_view-748x1000.jpg
+  - IMG_20220917_181456-sleep_view-750x1003.jpg
+  thumbnail: IMG_20220917_181456-sleep_view-750x1003.jpg
+  title: "V\xFDhled skoro ze stanu"
 - filename: IMG_20220918_104249-shore
   original: IMG_20220918_104249-shore-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220918_104249-shore-2992x4000.jpg
+  sizes:
+  - IMG_20220918_104249-shore-523x699.jpg
+  - IMG_20220918_104249-shore-748x1000.jpg
+  thumbnail: IMG_20220918_104249-shore-748x1000.jpg
 - filename: IMG_20220918_113541-lunch
   original: IMG_20220918_113541-lunch-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220918_113541-lunch-2992x4000.jpg
-  title: Mořský oběd
+  sizes:
+  - IMG_20220918_113541-lunch-442x591.jpg
+  - IMG_20220918_113541-lunch-748x1000.jpg
+  thumbnail: IMG_20220918_113541-lunch-748x1000.jpg
+  title: "Mo\u0159sk\xFD ob\u011Bd"
 - filename: IMG_20220918_114038-lunch2
   original: IMG_20220918_114038-lunch2-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220918_114038-lunch2-2992x4000.jpg
+  sizes:
+  - IMG_20220918_114038-lunch2-489x654.jpg
+  - IMG_20220918_114038-lunch2-748x1000.jpg
+  thumbnail: IMG_20220918_114038-lunch2-748x1000.jpg
 - filename: IMG_20220918_130042-cave_route
   original: IMG_20220918_130042-cave_route-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220918_130042-cave_route-2992x4000.jpg
+  sizes:
+  - IMG_20220918_130042-cave_route-748x1000.jpg
+  - IMG_20220918_130042-cave_route-761x1017.jpg
+  thumbnail: IMG_20220918_130042-cave_route-761x1017.jpg
 - filename: IMG_20220918_130659-cave_view
   original: IMG_20220918_130659-cave_view-4000x2992.jpg
-  sizes: []
-  title: Radom nalezená jeskyně po cestě
-  thumbnail: IMG_20220918_130659-cave_view-4000x2992.jpg
+  sizes:
+  - IMG_20220918_130659-cave_view-1000x748.jpg
+  - IMG_20220918_130659-cave_view-885x662.jpg
+  thumbnail: IMG_20220918_130659-cave_view-885x662.jpg
+  title: "Radom nalezen\xE1 jeskyn\u011B po cest\u011B"
 - filename: IMG_20220918_131041-cave
   original: IMG_20220918_131041-cave-4000x2992.jpg
-  sizes: []
-  thumbnail: IMG_20220918_131041-cave-4000x2992.jpg
+  sizes:
+  - IMG_20220918_131041-cave-1000x748.jpg
+  - IMG_20220918_131041-cave-635x475.jpg
+  thumbnail: IMG_20220918_131041-cave-635x475.jpg
 - filename: IMG_20220918_131727-boat
   original: IMG_20220918_131727-boat-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220918_131727-boat-2992x4000.jpg
+  sizes:
+  - IMG_20220918_131727-boat-510x682.jpg
+  - IMG_20220918_131727-boat-748x1000.jpg
+  thumbnail: IMG_20220918_131727-boat-748x1000.jpg
 - filename: IMG_20220918_132734-market
   original: IMG_20220918_132734-market-4000x2992.jpg
-  sizes: []
-  thumbnail: IMG_20220918_132734-market-4000x2992.jpg
+  sizes:
+  - IMG_20220918_132734-market-1000x748.jpg
+  - IMG_20220918_132734-market-581x435.jpg
+  thumbnail: IMG_20220918_132734-market-581x435.jpg
 - filename: IMG_20220918_132835-market
   original: IMG_20220918_132835-market-2992x4000.jpg
-  sizes: []
-  title: Z tržiště u místního geoparku
-  thumbnail: IMG_20220918_132835-market-2992x4000.jpg
+  sizes:
+  - IMG_20220918_132835-market-462x618.jpg
+  - IMG_20220918_132835-market-748x1000.jpg
+  thumbnail: IMG_20220918_132835-market-748x1000.jpg
+  title: "Z tr\u017Ei\u0161t\u011B u m\xEDstn\xEDho geoparku"
+- filename: IMG_20220918_103251-img
+  original: IMG_20220918_103251-img-1500x1125.jpg
+  sizes:
+  - IMG_20220918_103251-img-800x600.jpg
+  thumbnail: IMG_20220918_103251-img-800x600.jpg
+- filename: IMG_20220918_112904-img
+  original: IMG_20220918_112904-img-1500x1125.jpg
+  sizes:
+  - IMG_20220918_112904-img-800x600.jpg
+  thumbnail: IMG_20220918_112904-img-800x600.jpg
+- filename: IMG_20220918_125842-caveAnn
+  original: IMG_20220918_125842-caveAnn-4000x3000.jpg
+  sizes:
+  - IMG_20220918_125842-caveAnn-800x600.jpg
+  thumbnail: IMG_20220918_125842-caveAnn-800x600.jpg
+- filename: IMG_20220918_125842-img
+  original: IMG_20220918_125842-img-1500x1125.jpg
+  sizes:
+  - IMG_20220918_125842-img-800x600.jpg
+  thumbnail: IMG_20220918_125842-img-800x600.jpg
+- filename: IMG_20220918_130304-img
+  original: IMG_20220918_130304-img-1125x1500.jpg
+  sizes:
+  - IMG_20220918_130304-img-600x800.jpg
+  thumbnail: IMG_20220918_130304-img-600x800.jpg

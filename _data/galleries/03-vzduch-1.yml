@@ -1,17 +1,20 @@
 picture_path: 03/gallery-1
 pictures:
-- filename: 01-cards
+- caption: "Katri\u010Dky do metra"
+  filename: 01-cards
   original: 01-cards-2992x4000.jpg
   sizes: []
   thumbnail: 01-cards-2992x4000.jpg
   title: easycard
-  caption: Katričky do metra
-- filename: 02-metro
+- caption: "Maj\xED p\u0159ehledn\xE9 metro, jen bohu\u017Eel p\u0159i srovn\xE1n\xED\
+    \ s pra\u017Esk\xFDm tu student na doj\xED\u017Ed\u011Bn\xED zaplat\xED postatn\u011B\
+    \ v\xEDce. Pro m\u011B cca 1000 k\u010D m\u011Bs\xED\u010Dn\u011B, kdybych jezdila\
+    \ jen do \u0161koly a zp\u011Bt."
+  filename: 02-metro
   original: 02-metro-4000x2992.jpg
   sizes: []
   thumbnail: 02-metro-4000x2992.jpg
   title: metro
-  caption: Mají přehledné metro, jen bohužel při srovnání s pražským tu student na dojíždění zaplatí postatně více. Pro mě cca 1000 kč měsíčně, kdybych jezdila jen do školy a zpět.
 - filename: 03-doors
   original: 03-doors-2992x4000.jpg
   sizes: []
@@ -20,31 +23,68 @@ pictures:
   original: 04-dorm-2992x4000.jpg
   sizes: []
   thumbnail: 04-dorm-2992x4000.jpg
-  title: nádvoří kolejí
-- filename: 05-sheets
+  title: "n\xE1dvo\u0159\xED kolej\xED"
+- caption: "koupen\xE9 v \"japonsk\xE9 Ikee\" - Nitori"
+  filename: 05-sheets
   original: 05-sheets-2992x4000.jpg
   sizes: []
   thumbnail: 05-sheets-2992x4000.jpg
-  title: Povlečení
-  caption: koupené v "japonské Ikee" - Nitori
-- filename: 06-market
+  title: "Povle\u010Den\xED"
+- caption: "A\u010Dkoliv tu najde \u010Dlov\u011Bk i supermarket, j\xEDdlo koupen\xE9\
+    \ na ulici je drah\xE9 podobn\u011B \u010Di m\xE9n\u011B."
+  filename: 06-market
   original: 06-market-2992x4000.jpg
   sizes: []
   thumbnail: 06-market-2992x4000.jpg
-  title: Mají i supermarkety
-  caption: Ačkoliv tu najde člověk i supermarket, jídlo koupené na ulici je drahé podobně či méně.
+  title: "Maj\xED i supermarkety"
 - filename: 07-dfruit
   original: 07-dfruit-2992x4000.jpg
   sizes: []
   thumbnail: 07-dfruit-2992x4000.jpg
-  title: svačinka
+  title: "sva\u010Dinka"
 - filename: 08-breakfast
   original: 08-breakfast-2992x4000.jpg
   sizes: []
   thumbnail: 08-breakfast-2992x4000.jpg
-  title: snídaně - mají křupínky
+  title: "sn\xEDdan\u011B - maj\xED k\u0159up\xEDnky"
 - filename: 09-menu
   original: 09-menu-2992x4000.jpg
   sizes: []
   thumbnail: 09-menu-2992x4000.jpg
-  title: obědnávací lístek v restauraci
+  title: "ob\u011Bdn\xE1vac\xED l\xEDstek v restauraci"
+- filename: IMG_20220911_103522-img
+  original: IMG_20220911_103522-img-2992x4000.jpg
+  sizes:
+  - IMG_20220911_103522-img-1122x1500.jpg
+  - IMG_20220911_103522-img-599x800.jpg
+  thumbnail: IMG_20220911_103522-img-599x800.jpg
+- filename: IMG_20220911_111000-img
+  original: IMG_20220911_111000-img-4000x3000.jpg
+  sizes:
+  - IMG_20220911_111000-img-1500x1125.jpg
+  - IMG_20220911_111000-img-800x600.jpg
+  thumbnail: IMG_20220911_111000-img-800x600.jpg
+- filename: IMG_20220911_130440-img
+  original: IMG_20220911_130440-img-4000x3000.jpg
+  sizes:
+  - IMG_20220911_130440-img-1125x1500.jpg
+  - IMG_20220911_130440-img-600x800.jpg
+  thumbnail: IMG_20220911_130440-img-600x800.jpg
+- filename: IMG_20220911_130626-img
+  original: IMG_20220911_130626-img-4000x3000.jpg
+  sizes:
+  - IMG_20220911_130626-img-1125x1500.jpg
+  - IMG_20220911_130626-img-600x800.jpg
+  thumbnail: IMG_20220911_130626-img-600x800.jpg
+- filename: IMG_20220911_134156-img
+  original: IMG_20220911_134156-img-4000x3000.jpg
+  sizes:
+  - IMG_20220911_134156-img-1125x1500.jpg
+  - IMG_20220911_134156-img-600x800.jpg
+  thumbnail: IMG_20220911_134156-img-600x800.jpg
+- filename: IMG_20220911_134220-img
+  original: IMG_20220911_134220-img-4000x3000.jpg
+  sizes:
+  - IMG_20220911_134220-img-1125x1500.jpg
+  - IMG_20220911_134220-img-600x800.jpg
+  thumbnail: IMG_20220911_134220-img-600x800.jpg
