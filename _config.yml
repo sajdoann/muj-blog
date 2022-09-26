@@ -33,7 +33,7 @@ plugins:
 
 # Collections
 collections:
-  recipes:
+  blog:
     output: true
     permalink: /:collection/:path/
     sort_by: date
@@ -43,15 +43,16 @@ collections:
 defaults:
   # Post defaults
   - scope:
-      path: "_recipes"
-      type: posts
+      path: "_blog"
+      type: blog
+      paginate: true
     values:
       layout: post
       comments: true
-      share: true
+      share: false
   # blogs defaults
   - scope:
-      path: "_recipes"
+      path: "_posts"
       type: recipes
     values:
       layout: post
