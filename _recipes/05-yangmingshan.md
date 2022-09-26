@@ -29,4 +29,4 @@ Nicméně noc jsme přečkali a vstali brzo ráno. Na cestě už bylo dost lidí
 Chození není nuda, možná bych jí někdy trochu ocenila. Mají tu velikánské pavouky, co se nebojí si postavit sít přímo nad cestou. Poměrně nepříjemné je, že člověk chytá pavučinu hlavou... A sem tam člověk narazí na hada.
 
 
-{% include gallery-layout.html gallery=site.data.galleries.05-yangmingshan-1     id_number=1 %}
+{% include gallery-layout.html gallery=site.data.galleries.05-yangmingshan-2     id_number=1 %}
