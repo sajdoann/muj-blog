@@ -1,48 +1,72 @@
 picture_path: 04/gallery-1
 pictures:
-- filename: IMG_20220909_115308-krevety
+- caption: "Ob\u011Bd pro m\u011B p\u0159ekvapiv\u011B sma\u017E\xED mal\xE9 krevety\
+    \ i s krustou."
+  filename: IMG_20220909_115308-krevety
   original: IMG_20220909_115308-krevety-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220909_115308-krevety-2992x4000.jpg
-  title: Oběd
-  caption: Oběd pro mě překvapivě smaží malé krevety i s krustou.
+  sizes:
+  - IMG_20220909_115308-krevety-1122x1500.jpg
+  - IMG_20220909_115308-krevety-599x800.jpg
+  thumbnail: IMG_20220909_115308-krevety-599x800.jpg
+  title: "Ob\u011Bd"
 - filename: IMG_20220909_121012-station
   original: IMG_20220909_121012-station-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220909_121012-station-2992x4000.jpg
-  title: hasičská základna
+  sizes:
+  - IMG_20220909_121012-station-1122x1500.jpg
+  - IMG_20220909_121012-station-599x800.jpg
+  thumbnail: IMG_20220909_121012-station-599x800.jpg
+  title: "hasi\u010Dsk\xE1 z\xE1kladna"
 - filename: IMG_20220909_131637-beach
   original: IMG_20220909_131637-beach-4000x2992.jpg
-  sizes: []
-  thumbnail: IMG_20220909_131637-beach-4000x2992.jpg
-- filename: IMG_20220909_132011-beach
+  sizes:
+  - IMG_20220909_131637-beach-1500x1122.jpg
+  - IMG_20220909_131637-beach-800x599.jpg
+  thumbnail: IMG_20220909_131637-beach-800x599.jpg
+- caption: "Pobl\xED\u017E konce \u010Derven\xE9ho metra."
+  filename: IMG_20220909_132011-beach
   original: IMG_20220909_132011-beach-4000x2992.jpg
-  sizes: []
-  thumbnail: IMG_20220909_132011-beach-4000x2992.jpg
-  title: Pláž
-  caption: Poblíž konce červeného metra.
+  sizes:
+  - IMG_20220909_132011-beach-1500x1122.jpg
+  - IMG_20220909_132011-beach-800x599.jpg
+  thumbnail: IMG_20220909_132011-beach-800x599.jpg
+  title: "Pl\xE1\u017E"
 - filename: IMG_20220909_173812-cutie
   original: IMG_20220909_173812-cutie-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220909_173812-cutie-2992x4000.jpg
-- filename: IMG_20220909_173821-cutie2
+  sizes:
+  - IMG_20220909_173812-cutie-1122x1500.jpg
+  - IMG_20220909_173812-cutie-599x800.jpg
+  thumbnail: IMG_20220909_173812-cutie-599x800.jpg
+- caption: "Jsou tu ul\xEDtl\xED na roztomil\xE9 v\u011Bci. B\u011B\u017En\u011B potk\xE1\
+    te z\xE1kazy kde je nakreslen\xFD pes a nebo ko\u010Dka. Nap\u0159 v\xE1m nakresl\xED\
+    \ ko\u010Dku, co se kouk\xE1 do mobilu a upozor\u0148uj\xED tam aby \u010Dlov\u011B\
+    k nez\xE1visl\xE1koval a d\xE1val pozor na mezeru mezi metrem a per\xF3nem."
+  filename: IMG_20220909_173821-cutie2
   original: IMG_20220909_173821-cutie2-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220909_173821-cutie2-2992x4000.jpg
+  sizes:
+  - IMG_20220909_173821-cutie2-1122x1500.jpg
+  - IMG_20220909_173821-cutie2-599x800.jpg
+  thumbnail: IMG_20220909_173821-cutie2-599x800.jpg
   title: Roztomilost sama
-  caption: Jsou tu ulítlí na roztomilé věci. Běžně potkáte zákazy kde je nakreslený pes a nebo kočka. Např vám nakreslí kočku, co se kouká do mobilu a upozorňují tam aby člověk nezávislákoval a dával pozor na mezeru mezi metrem a perónem.  
-- filename: IMG_20220909_174222-station
+- caption: "A p\u0159ekvapiv\u011B hodn\u011B tu chr\xE1n\xED lidi proti \xFArazu.\
+    \ V\u0161ude v metru maj\xED tyhle z\xE1brany. Na ji\u0161t\u011Bn\xED tady p\u0159\
+    i lezen\xED \u010Dlov\u011Bk pot\u0159ebuje licenci."
+  filename: IMG_20220909_174222-station
   original: IMG_20220909_174222-station-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220909_174222-station-2992x4000.jpg
+  sizes:
+  - IMG_20220909_174222-station-1122x1500.jpg
+  - IMG_20220909_174222-station-599x800.jpg
+  thumbnail: IMG_20220909_174222-station-599x800.jpg
   title: Metro
-  caption: A překvapivě hodně tu chrání lidi proti úrazu. Všude v metru mají tyhle zábrany. Na jištění tady při lezení člověk potřebuje licenci.
 - filename: IMG_20220910_030419-nightclub
   original: IMG_20220910_030419-nightclub-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220910_030419-nightclub-2992x4000.jpg
+  sizes:
+  - IMG_20220910_030419-nightclub-1122x1500.jpg
+  - IMG_20220910_030419-nightclub-599x800.jpg
+  thumbnail: IMG_20220910_030419-nightclub-599x800.jpg
   title: Klub Ikon
 - filename: IMG_20220910_030422-club2
   original: IMG_20220910_030422-club2-2992x4000.jpg
-  sizes: []
-  thumbnail: IMG_20220910_030422-club2-2992x4000.jpg
+  sizes:
+  - IMG_20220910_030422-club2-1122x1500.jpg
+  - IMG_20220910_030422-club2-599x800.jpg
+  thumbnail: IMG_20220910_030422-club2-599x800.jpg

@@ -196,3 +196,39 @@ pictures:
   original: IMG_20220925_132748-img-1500x1122.jpg
   sizes: []
   thumbnail: IMG_20220925_132748-img-800x599.jpg
+- filename: 01-cards
+  original: 01-cards-599x800.jpg
+  sizes: []
+  thumbnail: 01-cards-599x800.jpg
+- filename: 02-metro
+  original: 02-metro-800x599.jpg
+  sizes: []
+  thumbnail: 02-metro-800x599.jpg
+- filename: 03-doors
+  original: 03-doors-599x800.jpg
+  sizes: []
+  thumbnail: 03-doors-599x800.jpg
+- filename: 04-dorm
+  original: 04-dorm-599x800.jpg
+  sizes: []
+  thumbnail: 04-dorm-599x800.jpg
+- filename: 05-sheets
+  original: 05-sheets-599x800.jpg
+  sizes: []
+  thumbnail: 05-sheets-599x800.jpg
+- filename: 06-market
+  original: 06-market-599x800.jpg
+  sizes: []
+  thumbnail: 06-market-599x800.jpg
+- filename: 07-dfruit
+  original: 07-dfruit-599x800.jpg
+  sizes: []
+  thumbnail: 07-dfruit-599x800.jpg
+- filename: 08-breakfast
+  original: 08-breakfast-599x800.jpg
+  sizes: []
+  thumbnail: 08-breakfast-599x800.jpg
+- filename: 09-menu
+  original: 09-menu-599x800.jpg
+  sizes: []
+  thumbnail: 09-menu-599x800.jpg

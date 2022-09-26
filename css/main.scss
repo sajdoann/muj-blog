@@ -37,9 +37,22 @@ h1.headline {
     display: inline;
 }
 
+.masthead{
+    background-image: url(./../images/back.jpg);
+    background-color: #cccccc;
+	clear: both;
+    text-align: center;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 3em;
+
+}
 
 img.logo {
-    margin-top: 50px;
+    margin-top: 150px;
+    height:150px;
 }
 
 a.a-headline:visited, a.a-headline {

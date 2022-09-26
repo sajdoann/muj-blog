@@ -3,8 +3,9 @@ pictures:
 - caption: "Katri\u010Dky do metra"
   filename: 01-cards
   original: 01-cards-2992x4000.jpg
-  sizes: []
-  thumbnail: 01-cards-2992x4000.jpg
+  sizes:
+  - 01-cards-599x800.jpg
+  thumbnail: 01-cards-599x800.jpg
   title: easycard
 - caption: "Maj\xED p\u0159ehledn\xE9 metro, jen bohu\u017Eel p\u0159i srovn\xE1n\xED\
     \ s pra\u017Esk\xFDm tu student na doj\xED\u017Ed\u011Bn\xED zaplat\xED postatn\u011B\
@@ -12,45 +13,53 @@ pictures:
     \ jen do \u0161koly a zp\u011Bt."
   filename: 02-metro
   original: 02-metro-4000x2992.jpg
-  sizes: []
-  thumbnail: 02-metro-4000x2992.jpg
+  sizes:
+  - 02-metro-800x599.jpg
+  thumbnail: 02-metro-800x599.jpg
   title: metro
 - filename: 03-doors
   original: 03-doors-2992x4000.jpg
-  sizes: []
-  thumbnail: 03-doors-2992x4000.jpg
+  sizes:
+  - 03-doors-599x800.jpg
+  thumbnail: 03-doors-599x800.jpg
 - filename: 04-dorm
   original: 04-dorm-2992x4000.jpg
-  sizes: []
-  thumbnail: 04-dorm-2992x4000.jpg
+  sizes:
+  - 04-dorm-599x800.jpg
+  thumbnail: 04-dorm-599x800.jpg
   title: "n\xE1dvo\u0159\xED kolej\xED"
 - caption: "koupen\xE9 v \"japonsk\xE9 Ikee\" - Nitori"
   filename: 05-sheets
   original: 05-sheets-2992x4000.jpg
-  sizes: []
-  thumbnail: 05-sheets-2992x4000.jpg
+  sizes:
+  - 05-sheets-599x800.jpg
+  thumbnail: 05-sheets-599x800.jpg
   title: "Povle\u010Den\xED"
 - caption: "A\u010Dkoliv tu najde \u010Dlov\u011Bk i supermarket, j\xEDdlo koupen\xE9\
     \ na ulici je drah\xE9 podobn\u011B \u010Di m\xE9n\u011B."
   filename: 06-market
   original: 06-market-2992x4000.jpg
-  sizes: []
-  thumbnail: 06-market-2992x4000.jpg
+  sizes:
+  - 06-market-599x800.jpg
+  thumbnail: 06-market-599x800.jpg
   title: "Maj\xED i supermarkety"
 - filename: 07-dfruit
   original: 07-dfruit-2992x4000.jpg
-  sizes: []
-  thumbnail: 07-dfruit-2992x4000.jpg
+  sizes:
+  - 07-dfruit-599x800.jpg
+  thumbnail: 07-dfruit-599x800.jpg
   title: "sva\u010Dinka"
 - filename: 08-breakfast
   original: 08-breakfast-2992x4000.jpg
-  sizes: []
-  thumbnail: 08-breakfast-2992x4000.jpg
+  sizes:
+  - 08-breakfast-599x800.jpg
+  thumbnail: 08-breakfast-599x800.jpg
   title: "sn\xEDdan\u011B - maj\xED k\u0159up\xEDnky"
 - filename: 09-menu
   original: 09-menu-2992x4000.jpg
-  sizes: []
-  thumbnail: 09-menu-2992x4000.jpg
+  sizes:
+  - 09-menu-599x800.jpg
+  thumbnail: 09-menu-599x800.jpg
   title: "ob\u011Bdn\xE1vac\xED l\xEDstek v restauraci"
 - filename: IMG_20220911_103522-img
   original: IMG_20220911_103522-img-2992x4000.jpg
@@ -88,3 +97,39 @@ pictures:
   - IMG_20220911_134220-img-1125x1500.jpg
   - IMG_20220911_134220-img-600x800.jpg
   thumbnail: IMG_20220911_134220-img-600x800.jpg
+- filename: IMG_20220908_103612-img
+  original: IMG_20220908_103612-img-2992x4000.jpg
+  sizes: []
+  thumbnail: IMG_20220908_103612-img-2992x4000.jpg
+- filename: IMG_20220908_103842-img
+  original: IMG_20220908_103842-img-4000x2992.jpg
+  sizes: []
+  thumbnail: IMG_20220908_103842-img-4000x2992.jpg
+- filename: IMG_20220908_115040-img
+  original: IMG_20220908_115040-img-2992x4000.jpg
+  sizes: []
+  thumbnail: IMG_20220908_115040-img-2992x4000.jpg
+- filename: IMG_20220908_153912-img
+  original: IMG_20220908_153912-img-2992x4000.jpg
+  sizes: []
+  thumbnail: IMG_20220908_153912-img-2992x4000.jpg
+- filename: IMG_20220908_162740-img
+  original: IMG_20220908_162740-img-2992x4000.jpg
+  sizes: []
+  thumbnail: IMG_20220908_162740-img-2992x4000.jpg
+- filename: IMG_20220908_164200-img
+  original: IMG_20220908_164200-img-2992x4000.jpg
+  sizes: []
+  thumbnail: IMG_20220908_164200-img-2992x4000.jpg
+- filename: IMG_20220908_180538-img
+  original: IMG_20220908_180538-img-2992x4000.jpg
+  sizes: []
+  thumbnail: IMG_20220908_180538-img-2992x4000.jpg
+- filename: IMG_20220909_094419-img
+  original: IMG_20220909_094419-img-2992x4000.jpg
+  sizes: []
+  thumbnail: IMG_20220909_094419-img-2992x4000.jpg
+- filename: IMG_20220909_100006-img
+  original: IMG_20220909_100006-img-2992x4000.jpg
+  sizes: []
+  thumbnail: IMG_20220909_100006-img-2992x4000.jpg
