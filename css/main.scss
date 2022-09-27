@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
+@import "../_sass/so-simple";
 
 
 // Our variables
@@ -30,6 +30,7 @@ $on-laptop:        800px;
 
 
 
+
 h1.headline {
     font-weight: bold;
     font-size: xx-large;
@@ -37,15 +38,20 @@ h1.headline {
     display: inline;
 }
 
-.masthead{
+.page-header-layout{
     background-image: url(./../images/back.jpg);
-	clear: both;
+    height: 450px;
+    clear: both;
     text-align: center;
-    height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 3em;
+}
+
+.masthead{
+	clear: both;
+    text-align: center;
+    //margin-bottom: 3em;
 
 }
 
@@ -59,9 +65,9 @@ a.a-headline:visited, a.a-headline {
 	text-decoration:  none !important;
 }
 
-a:visited{
+/*a:visited{
 		color: black !important;
-}
+}*/
 
 a.social-icon {
     color: black;

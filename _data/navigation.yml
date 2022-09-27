@@ -1,6 +1,7 @@
 # Site navigation links
-
+- title: Domů
+  url: /
 - title: Příspěvky
-  url: /posts/
+  url: /blog/
 - title: Vyhledavač
   url: /search/
