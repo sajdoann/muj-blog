@@ -16,7 +16,7 @@ Jeden můj kamarád říká, že při lezení dostávám strach až když se nav
  
 Spali jsme v second cave, přenádherné jeskyni, kde jsme si poslední den vylezli 2 trasy hned velke našeho stanu. Bohužel všechno bylo po vlastním (nebylo jištěno sportovně, laicky krom vrchního jištění na spuštění, si člověk dělal jištění sám). Na vlastní jištění máme jen asi 7 vklíněnců. Naštěstí jsme potkali jednoho taiwance, co se s námi dal do řeči a kus vybavení nám půjčil. Na ty najkrásnější a jednoduché cesty tu jištění nedali, protože tak jednoduché cesty přece jištění nepotřebují. Fňuk. Ale co se dá dělat. S vypůjčeným vybavením jsme vylezli jednu z nejhezčích cest a Dejv už přemýšlí, co si koupí za jištění. 
 
-Přes největší pařák v poledne jsme šnorchlovali v moři. Mají tu nádherné rybičky. Moji dva oblíbenci byli téměř kulatá velká nemotorná/líná hnědá ryba s pusou do o a azurově modrá malá rybka vyskytující se v hejnech. Aby těch sportů nebylo málo, skusila jsem si skočit i z 5m útesíku. Skákalo tam i spousta taiwanců. Největšího povzbuzování od taiwanců se dočkal Pavel, který si nebyl jistý, že fakt skočí. 
+Přes největší pařák v poledne jsme šnorchlovali v moři. Mají tu nádherné rybičky. Moji dva oblíbenci byli téměř kulatá velká nemotorná/líná hnědá ryba s pusou do o a azurově modrá malá rybka vyskytující se v hejnech. Aby těch sportů nebylo málo, zkusila jsem si skočit i z 5m útesíku. Skákalo tam i spousta taiwanců. Největšího povzbuzování od taiwanců se dočkal Pavel, který si nebyl jistý, že fakt skočí. 
 
 O Long dong určitě ještě uslyšíte. 
 
