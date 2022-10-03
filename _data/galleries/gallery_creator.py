@@ -11,9 +11,9 @@ from os import listdir, rename
 from os.path import isfile, join
 
 # configuration
-output_file = "03-vzduch-1.yml"
+output_file = "07-gallery-1.yml"
 input_file = output_file
-image_path = "03/gallery-1"
+image_path = "07/gallery-1"
 extensions= ['jpg', 'png']
 
 # set correct path

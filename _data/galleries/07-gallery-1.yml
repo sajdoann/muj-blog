@@ -1,0 +1,100 @@
+picture_path: 07/gallery-1
+pictures:
+- filename: IMG_20220930_130422-img
+  original: IMG_20220930_130422-img-1350x1800.jpg
+  sizes:
+  - IMG_20220930_130422-img-750x1000.jpg
+  thumbnail: IMG_20220930_130422-img-750x1000.jpg
+- filename: IMG_20220930_134650-img
+  original: IMG_20220930_134650-img-1350x1800.jpg
+  sizes:
+  - IMG_20220930_134650-img-750x1000.jpg
+  thumbnail: IMG_20220930_134650-img-750x1000.jpg
+- filename: IMG_20220930_144215-img
+  original: IMG_20220930_144215-img-1350x1800.jpg
+  sizes:
+  - IMG_20220930_144215-img-750x1000.jpg
+  thumbnail: IMG_20220930_144215-img-750x1000.jpg
+- filename: IMG_20220930_145443-img
+  original: IMG_20220930_145443-img-1350x1800.jpg
+  sizes:
+  - IMG_20220930_145443-img-750x1000.jpg
+  title: Zamyšlený David
+  caption: V mountaineering klubu jsme si půjčily chytrou knihu o místních lezeckých trasách. Pomáhala nám vybírat správné otížnosti. Bez ní bychom byli ztracení
+  thumbnail: IMG_20220930_145443-img-750x1000.jpg
+- filename: IMG_20220930_145510-img
+  original: IMG_20220930_145510-img-1800x1350.jpg
+  sizes:
+  - IMG_20220930_145510-img-1000x750.jpg
+  title: výhled na First and Second cave
+  caption: V second cave jsme spali. Měli tam i obří gumovou podložku. Postvaili jsme si na ní stan a ani jsme všechno neměli od prachu.
+  thumbnail: IMG_20220930_145510-img-1000x750.jpg
+- filename: IMG_20220930_151735-img
+  original: IMG_20220930_151735-img-1350x1800.jpg
+  sizes:
+  - IMG_20220930_151735-img-750x1000.jpg
+  thumbnail: IMG_20220930_151735-img-750x1000.jpg
+- filename: IMG_20220930_171304-img
+  original: IMG_20220930_171304-img-1350x1800.jpg
+  sizes:
+  - IMG_20220930_171304-img-750x1000.jpg
+  title: Naše jeskyně k přespávání
+  caption: A byli jsme tam sami! 
+  thumbnail: IMG_20220930_171304-img-750x1000.jpg
+- filename: IMG_20220930_171323-img
+  original: IMG_20220930_171323-img-1800x1350.jpg
+  sizes:
+  - IMG_20220930_171323-img-1000x750.jpg
+  thumbnail: IMG_20220930_171323-img-1000x750.jpg
+- filename: IMG_20221001_115257-img
+  original: IMG_20221001_115257-img-1350x1800.jpg
+  sizes:
+  - IMG_20221001_115257-img-750x1000.jpg
+  caption: Jediné místo ráno ve stínu
+  thumbnail: IMG_20221001_115257-img-750x1000.jpg
+- filename: IMG_20221001_115533-img
+  original: IMG_20221001_115533-img-1350x1800.jpg
+  sizes:
+  - IMG_20221001_115533-img-750x1000.jpg
+  title: David doprvolezil
+  thumbnail: IMG_20221001_115533-img-750x1000.jpg
+- filename: IMG_20221001_115717-img
+  original: IMG_20221001_115717-img-1350x1800.jpg
+  sizes:
+  - IMG_20221001_115717-img-750x1000.jpg
+  title: Válečná šmouha na tváři
+  thumbnail: IMG_20221001_115717-img-750x1000.jpg
+- filename: IMG_20221001_125744-img
+  original: IMG_20221001_125744-img-1350x1800.jpg
+  sizes:
+  - IMG_20221001_125744-img-750x1000.jpg
+  title: spára
+  thumbnail: IMG_20221001_125744-img-750x1000.jpg
+- filename: IMG_20221002_051853-img
+  original: IMG_20221002_051853-img-1800x1350.jpg
+  sizes:
+  - IMG_20221002_051853-img-1000x750.jpg
+  title: rozbřesk
+  thumbnail: IMG_20221002_051853-img-1000x750.jpg
+- filename: IMG_20221002_052741-img
+  original: IMG_20221002_052741-img-1800x1350.jpg
+  sizes:
+  - IMG_20221002_052741-img-1000x750.jpg
+  thumbnail: IMG_20221002_052741-img-1000x750.jpg
+- filename: IMG_20221002_113423-img
+  original: IMG_20221002_113423-img-1350x1800.jpg
+  sizes:
+  - IMG_20221002_113423-img-750x1000.jpg
+  title: Pavlova první cesta na skalách
+  thumbnail: IMG_20221002_113423-img-750x1000.jpg
+- filename: IMG_20221002_115220-img
+  original: IMG_20221002_115220-img-1350x1800.jpg
+  sizes:
+  - IMG_20221002_115220-img-750x1000.jpg
+  thumbnail: IMG_20221002_115220-img-750x1000.jpg
+- filename: IMG_20221002_164827-img
+  original: IMG_20221002_164827-img-1350x1800.jpg
+  sizes:
+  - IMG_20221002_164827-img-750x1000.jpg
+  title: potapěči
+  thumbnail: IMG_20221002_164827-img-750x1000.jpg
