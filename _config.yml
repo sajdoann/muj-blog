@@ -17,7 +17,7 @@ logo: /favicons/android-chrome-384x384.png
 read_time: true
 words_per_minute: 200
 
-paginate: 10  # amount of posts to show per page
+paginate: 5  # amount of posts to show per page
 paginate_path: /page:num/
 
 # Build settings

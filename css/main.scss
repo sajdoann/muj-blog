@@ -28,7 +28,42 @@ $content-width:    940px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+/*************************************************************/
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: rgba(10,10,20,1);
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+ z-index: 9;
+text-align:center;
+}
 
+a.nav-link{
+    font-size: xx-large;
+    font-family: fantasy;
+}
+a.nav-link:visited {
+    color: white;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/***********************************************************/
 
 
 h1.headline {
