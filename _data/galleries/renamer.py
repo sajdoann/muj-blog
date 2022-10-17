@@ -13,7 +13,7 @@ from os.path import isfile, join
 # configuration
 output_file = "tmp.yml"
 input_file = output_file
-image_path = "07/gallery-1"
+image_path = "08/gallery-1"
 extensions= ['jpg', 'png']
 
 # set correct path
