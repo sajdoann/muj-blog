@@ -1,7 +1,6 @@
 ---
-layout: gallery
+layout: post
 title: "Škola volá"
-no_menu_item: true # required only for this example website because of menu construction
 date: 2022-09-10
 image:
   thumbnail: /images/04/cover_th.jpg

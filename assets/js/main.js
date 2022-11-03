@@ -11,4 +11,3 @@ $(document).ready(function() {
 
   // initialize smooth scroll
   $("a").smoothScroll({ offset: -20 });
-

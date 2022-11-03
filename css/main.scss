@@ -2,7 +2,6 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-@import "../_sass/so-simple";
 
 
 // Our variables
@@ -23,7 +22,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    940px;
+$content-width:    1000px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -31,36 +30,32 @@ $on-laptop:        800px;
 /*************************************************************/
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: rgba(10,10,20,1);
+  border-bottom: 1px solid #e8e8e8;
   overflow: hidden;
   position: fixed;
   top: 0;
   width: 100%;
  z-index: 9;
 text-align:center;
+background: white;
+padding: 5px;
 }
 
-a.nav-link{
-    font-size: xx-large;
-    font-family: fantasy;
-}
-a.nav-link:visited {
-    color: white;
-}
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+a.nav-link {
+    display: block;
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
+/*.topnav a:hover {
   background-color: #ddd;
   color: black;
+}**/
+
+/***********************************************************/
+/* offset entire post page so navbar does not cover heading */
+.page-wrapper {
+    position: relative;
+    top: 30px;
 }
 
 /***********************************************************/
@@ -73,17 +68,10 @@ h1.headline {
     display: inline;
 }
 
-.page-header-layout{
-    background-image: url(./../images/back.jpg);
-    height: 450px;
-    clear: both;
-    text-align: center;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+h1#page-title {
+    font-weight: bold;
 }
-
-.masthead{
+/*.masthead{
 	clear: both;
     text-align: center;
     //margin-bottom: 3em;
@@ -93,7 +81,7 @@ h1.headline {
 img.logo {
     margin-top: 150px;
     height:150px;
-}
+}*/
 
 a.a-headline:visited, a.a-headline {
     color: black;
@@ -105,8 +93,150 @@ a.a-headline:visited, a.a-headline {
 }*/
 
 a.social-icon {
+    padding: 3px; 
+	color: black;
+}
+
+a:visited.social-icon {
     color: black;
 }
+
+/**********author medailon in post ************/
+.author-avatar {
+    margin-right: 1em;
+    width: 50px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.page-author.h-card.p-author {
+    display: -webkit-box;
+    align-items: center;
+    justify-content: start;
+    justify-items: start;
+}
+
+.page-sidebar .read-time {
+    display: block;
+    text-align: left;
+}
+
+.page-sidebar {
+    text-align: left;
+font-size: 0.75rem;
+}
+/**********************************/
+.entries-grid .entry {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-bottom: 2rem;
+}
+
+
+.entry-header {
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+}
+
+.entries-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 2em;
+}
+
+
+/*navigation skip links*/
+.page-pagination {
+    display: flex;
+    margin: 2em 0 1em;
+    clear: both;
+    justify-content: space-between;
+}
+
+h4.page-pagination-label {
+    margin: 0px;
+}
+
+a:visited.page-next {
+    color: black;
+}
+
+a:visited.page-previous {
+    color: black;
+}
+
+
+/**************** entries grid *************************************/
+/*layout for index.html*/
+.entry-title.p-name a:visited {
+    color: black;
+}
+
+
+.entries-grid .entry-title {
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1;
+font-size: calc(18px + 6 * ((100vw - 320px) / 960));
+}
+
+.entry-title {
+    margin-bottom: 0.5rem;
+    font-family: "Lora",serif;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: -1px;
+    word-wrap: break-word;
+}
+
+.entries-grid .entry-meta {
+    -webkit-box-ordinal-group: 3;
+    -ms-flex-order: 2;
+    order: 2;
+    margin-bottom: 1em;
+    font-size: 0.75rem;
+}
+
+.entries-grid .entry-excerpt, .entries-grid .entry-content {
+    -webkit-box-ordinal-group: 4;
+    -ms-flex-order: 3;
+    order: 3;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+/* date url black*/
+a:visited.u-url {
+    color: black;
+}
+a.u-url {
+    color: black;
+}
+/**/
+
+// css for hero image in posts
+.page-image {
+    
+		position: relative;
+    text-align: center;
+    margin-bottom: 2em;
+    z-index: 1;
+}
+
+img.entry-feature-image.u-photo {
+    width: 100%;
+}
+
+/***********************************************/
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -121,14 +251,14 @@ a.social-icon {
     }
 }
 
-
+@import "../css/gallery";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
         "syntax-highlighting"
-;
+		;
 
 .row {
     width:100%;

@@ -1,12 +1,11 @@
 ---
-layout: gallery
+layout: post
 title: "Cesta tam a ne zpět - naštěstí"
-no_menu_item: true # required only for this example website because of menu construction
 date: 2022-08-31
 image:
+  path: /images/02/obed_th.jpg  
   thumbnail: /images/02/obed_th.jpg
 support: [jquery, gallery]
-
 ---
 
 

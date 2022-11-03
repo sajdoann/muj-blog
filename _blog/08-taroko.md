@@ -1,7 +1,6 @@
 ---
-layout: gallery
+layout: post
 title: "Zákazy správným směrem"
-no_menu_item: true # required only for this example website because of menu construction
 date: 2022-10-17
 image:
   thumbnail: /images/08/cover_th.jpg

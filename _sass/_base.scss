@@ -1,5 +1,3 @@
-@import "so-simple";
-
 /**
  * Reset some basic elements
  */
@@ -190,7 +188,6 @@ pre {
 
 
 
-
 /**
  * Icons
  */
@@ -206,10 +203,4 @@ pre {
             fill: $grey-color;
         }
     }
-}
-
-.site-title::before {
-content: url("/favicons/favicon-32x32.png");
-display: inline-block;
-position: relative;
 }

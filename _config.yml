@@ -18,7 +18,7 @@ read_time: true
 words_per_minute: 200
 
 paginate: 5  # amount of posts to show per page
-paginate_path: /page:num/
+paginate_path: "/blog/page:num/"
 
 # Build settings
 markdown: kramdown
@@ -67,17 +67,6 @@ author:
   name: Anna Sajdoková
   picture: images/isc_sajdokova.png
   email: sajdokova@gmail.com
-  # twitter:
-  links:
-    - title: Instagram
-      url: https://instagram.com/sajdoann
-      icon: fa fa-instagram
-    - title: GitHub
-      url: https://github.com/sajdoann
-      icon: fa fa-github-square
-    - title: Facebook
-      url: https://facebook.com/sajdoann
-      icon: fa fa-facebook-square
 
 # Footer Links
 footer_links:

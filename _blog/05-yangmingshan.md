@@ -1,7 +1,6 @@
 ---
-layout: gallery
+layout: post
 title: "Národní park Yangmingshan"
-no_menu_item: true # required only for this example website because of menu construction
 date: 2022-09-21
 image:
   thumbnail: /images/05/cover_th.jpg

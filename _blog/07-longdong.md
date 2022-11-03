@@ -1,7 +1,6 @@
 ---
-layout: gallery
+layout: post
 title: "Free solo Anička"
-no_menu_item: true # required only for this example website because of menu construction
 date: 2022-10-01
 image:
   thumbnail: /images/07/cover_th.jpg

@@ -1,9 +1,8 @@
 ---
-layout: gallery
+layout: post
 title: "A budou ti ty mandarinky rozumnět?"
-no_menu_item: true # required only for this example website because of menu construction
 image:
-  thumbnail: /images/01/mandarinky_th.jpg
+  thumbnail:  /images/01/mandarinky_th.jpg
 date: 2022-08-25
 support: [jquery, gallery]
 ---

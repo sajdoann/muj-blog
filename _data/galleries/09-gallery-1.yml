@@ -1,0 +1,97 @@
+picture_path: 09/gallery-1
+pictures:
+- filename: IMG_20221016_122057-img
+  original: IMG_20221016_122057-img-1700x1275.jpg
+  sizes:
+  - IMG_20221016_122057-img-1000x750.jpg
+  thumbnail: IMG_20221016_122057-img-1000x750.jpg
+- filename: IMG_20221025_175922-img
+  original: IMG_20221025_175922-img-1272x1700.jpg
+  sizes:
+  - IMG_20221025_175922-img-748x1000.jpg
+  thumbnail: IMG_20221025_175922-img-748x1000.jpg
+- filename: IMG_20221025_177952-img
+  original: IMG_20221025_177952-img-957x1700.jpg
+  sizes:
+  - IMG_20221025_177952-img-563x1000.jpg
+  thumbnail: IMG_20221025_177952-img-563x1000.jpg
+- filename: IMG_20221025_178922-img
+  original: IMG_20221025_178922-img-957x1700.jpg
+  sizes:
+  - IMG_20221025_178922-img-563x1000.jpg
+  thumbnail: IMG_20221025_178922-img-563x1000.jpg
+- filename: IMG_20221025_217952-img
+  original: IMG_20221025_217952-img-1700x1275.jpg
+  sizes:
+  - IMG_20221025_217952-img-1000x750.jpg
+  thumbnail: IMG_20221025_217952-img-1000x750.jpg
+- filename: IMG_20221025_217953-img
+  original: IMG_20221025_217953-img-957x1700.jpg
+  sizes:
+  - IMG_20221025_217953-img-563x1000.jpg
+  thumbnail: IMG_20221025_217953-img-563x1000.jpg
+- filename: IMG_20221025_217957-img
+  original: IMG_20221025_217957-img-1700x1275.jpg
+  sizes:
+  - IMG_20221025_217957-img-1000x750.jpg
+  thumbnail: IMG_20221025_217957-img-1000x750.jpg
+- filename: IMG_20221025_218052-img
+  original: IMG_20221025_218052-img-1275x1700.jpg
+  sizes:
+  - IMG_20221025_218052-img-750x1000.jpg
+  thumbnail: IMG_20221025_218052-img-750x1000.jpg
+- filename: IMG_20221025_417952-img
+  original: IMG_20221025_417952-img-1275x1700.jpg
+  sizes:
+  - IMG_20221025_417952-img-750x1000.jpg
+  thumbnail: IMG_20221025_417952-img-750x1000.jpg
+- filename: IMG_20221026_217952-img
+  original: IMG_20221026_217952-img-1275x1700.jpg
+  sizes:
+  - IMG_20221026_217952-img-750x1000.jpg
+  thumbnail: IMG_20221026_217952-img-750x1000.jpg
+- filename: IMG_20221026_237952-img
+  original: IMG_20221026_237952-img-1275x1700.jpg
+  sizes:
+  - IMG_20221026_237952-img-750x1000.jpg
+  thumbnail: IMG_20221026_237952-img-750x1000.jpg
+- filename: IMG_20221026_317952-img
+  original: IMG_20221026_317952-img-957x1700.jpg
+  sizes:
+  - IMG_20221026_317952-img-563x1000.jpg
+  thumbnail: IMG_20221026_317952-img-563x1000.jpg
+- filename: IMG_20221026_417952-img
+  original: IMG_20221026_417952-img-1700x957.jpg
+  sizes:
+  - IMG_20221026_417952-img-1000x563.jpg
+  thumbnail: IMG_20221026_417952-img-1000x563.jpg
+- filename: IMG_20221026_417953-img
+  original: IMG_20221026_417953-img-957x1700.jpg
+  sizes:
+  - IMG_20221026_417953-img-563x1000.jpg
+  thumbnail: IMG_20221026_417953-img-563x1000.jpg
+- filename: IMG_20221026_417954-img
+  original: IMG_20221026_417954-img-1700x1275.jpg
+  sizes:
+  - IMG_20221026_417954-img-1000x750.jpg
+  thumbnail: IMG_20221026_417954-img-1000x750.jpg
+- filename: IMG_20221026_417955-img
+  original: IMG_20221026_417955-img-1700x1275.jpg
+  sizes:
+  - IMG_20221026_417955-img-1000x750.jpg
+  thumbnail: IMG_20221026_417955-img-1000x750.jpg
+- filename: IMG_20221026_417956-img
+  original: IMG_20221026_417956-img-1700x1275.jpg
+  sizes:
+  - IMG_20221026_417956-img-1000x750.jpg
+  thumbnail: IMG_20221026_417956-img-1000x750.jpg
+- filename: IMG_20221026_417957-img
+  original: IMG_20221026_417957-img-1275x1700.jpg
+  sizes:
+  - IMG_20221026_417957-img-750x1000.jpg
+  thumbnail: IMG_20221026_417957-img-750x1000.jpg
+- filename: IMG_20221026_417958-img
+  original: IMG_20221026_417958-img-1127x1700.jpg
+  sizes:
+  - IMG_20221026_417958-img-663x1000.jpg
+  thumbnail: IMG_20221026_417958-img-663x1000.jpg
