@@ -6,7 +6,7 @@ image:
   thumbnail: /images/08/cover_th.jpg
 support: [jquery, gallery]
 ---
-Národní park Taroko, Zhuilu old road, vodopády, :monkey: a cesta v útesu
+Národní park Taroko, Zhuilu old road, vodopády, :monkey: a cesta v útesu.
 
 Rozhodla jsem se nevracet se pro deštník. Už takhle jsem šla skoro pozdě na hodinu čínštiny. Teda přesněji lekci čínštiny co trvá 3 hodiny. Nakonec mám celkem 6 hodin čínštiny a k mému údivu za to i dostávám stipendium. 
 

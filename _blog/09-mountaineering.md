@@ -8,7 +8,7 @@ image:
 support: [jquery, gallery]
 ---
 
-Krásy a úskalí společných aktivit, 2200 m 🗻
+Krásy a úskalí společných aktivit, 2200 m 🗻.
 
 Na Instagramu člověk najde lecjakou nádheru, ale zachytit realitu se tam lecky nepovede. A tak lze jen prohlásit, chci žít život jako na mém Instagramu. Nejsem okamžitý sdíleč, spíš archivář. Logicky se tam tak objevují zachycené chvilky, na které vzpomínám ráda a budou vesměs pozitivní a hezké. Střípek reality.
 
