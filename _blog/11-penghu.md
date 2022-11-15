@@ -34,6 +34,9 @@ Památky:
 - chrámy zasvěcené čínským bohům ztvárněné v podobě draků. 
 - pirátské jeskyně
 - velrybí oblouk 🐳
+- Xitai falešný kanón 
+
+Více info najdete v popiscích u obrázků.
 
 {% include gallery-layout.html gallery=site.data.galleries.11-gallery-1 id-number=1 %}
 
