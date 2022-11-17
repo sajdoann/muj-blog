@@ -9,7 +9,9 @@ support: [jquery, gallery]
 
 Ostrovy Penghu, stan u pláže a vichr 
 
-Ve středu jsme se rozhodli, že na čtvrtek až pondělí poletíme za jediným hezkým počasím na celém Taiwanu. Tak jsme se dostali o Halloweenu na ostrovy Penghu.
+Ve středu jsme se rozhodli, že na čtvrtek až pondělí poletíme za jediným hezkým počasím na celém Taiwanu. Tak jsme se dostali o Halloweenu na ostrovy Penghu. Tyto ostrovy leží mezi Taiwanem a Čínou. 
+
+<img src="/images/11/location.png" alt="Location of penghu">
 
 První den, čtvrtek, jsme museli přežít hodinu čínštiny online. Zaparkovali jsme se na pláži hned u letiště. Já pustila na mobilu čínštinu a následující 3 hodiny jsme se váleli na pláži a poslouchali, případně odpovídali učitelce. Na konci lekce jsme měli dražbu. Každý si měl vybrat předmět z jeho okolí co prodá. Mnoo..., zapínat kameru, že jsem na pláži, se mi moc nechtělo, ale když už tu jsem, tak jsem to proměnila ve výhodu. Dražila jsem místní loď (stará pramice). Uznejte, že dražit propisku nebo třeba židli je oproti tomu nuda :D.
 
