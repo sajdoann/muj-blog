@@ -510,3 +510,173 @@ pictures:
   original: IMG_20221022_205646-img-1000x750.jpg
   sizes: []
   thumbnail: IMG_20221022_205646-img-1000x750.jpg
+- filename: 20221027_104602.jp
+  original: 20221027_104602.jp-1000x750.jpg
+  sizes:
+  - 20221027_104602.jp-1000x750.jpg
+  thumbnail: 20221027_104602.jp-1000x750.jpg
+- filename: 20221027_115534.jp
+  original: 20221027_115534.jp-750x1000.jpg
+  sizes:
+  - 20221027_115534.jp-750x1000.jpg
+  thumbnail: 20221027_115534.jp-750x1000.jpg
+- filename: 20221027_130231.jp
+  original: 20221027_130231.jp-1000x750.jpg
+  sizes:
+  - 20221027_130231.jp-1000x750.jpg
+  thumbnail: 20221027_130231.jp-1000x750.jpg
+- filename: 20221028_100537.jp
+  original: 20221028_100537.jp-1000x750.jpg
+  sizes:
+  - 20221028_100537.jp-1000x750.jpg
+  thumbnail: 20221028_100537.jp-1000x750.jpg
+- filename: 20221029_122043.jp
+  original: 20221029_122043.jp-750x1000.jpg
+  sizes:
+  - 20221029_122043.jp-750x1000.jpg
+  thumbnail: 20221029_122043.jp-750x1000.jpg
+- filename: 20221029_122052.jp
+  original: 20221029_122052.jp-750x1000.jpg
+  sizes:
+  - 20221029_122052.jp-750x1000.jpg
+  thumbnail: 20221029_122052.jp-750x1000.jpg
+- filename: 20221030_110308.jp
+  original: 20221030_110308.jp-1000x750.jpg
+  sizes:
+  - 20221030_110308.jp-1000x750.jpg
+  thumbnail: 20221030_110308.jp-1000x750.jpg
+- filename: 20221030_120113.jp
+  original: 20221030_120113.jp-750x1000.jpg
+  sizes:
+  - 20221030_120113.jp-750x1000.jpg
+  thumbnail: 20221030_120113.jp-750x1000.jpg
+- filename: 20221030_144000.jp
+  original: 20221030_144000.jp-1000x750.jpg
+  sizes:
+  - 20221030_144000.jp-1000x750.jpg
+  thumbnail: 20221030_144000.jp-1000x750.jpg
+- filename: 20221030_153526.jp
+  original: 20221030_153526.jp-1000x750.jpg
+  sizes:
+  - 20221030_153526.jp-1000x750.jpg
+  thumbnail: 20221030_153526.jp-1000x750.jpg
+- filename: 20221031_205021.jp
+  original: 20221031_205021.jp-750x1000.jpg
+  sizes:
+  - 20221031_205021.jp-750x1000.jpg
+  thumbnail: 20221031_205021.jp-750x1000.jpg
+- filename: IMG_20221027_141354.jp
+  original: IMG_20221027_141354.jp-748x1000.jpg
+  sizes:
+  - IMG_20221027_141354.jp-748x1000.jpg
+  thumbnail: IMG_20221027_141354.jp-748x1000.jpg
+- filename: IMG_20221027_180043.jp
+  original: IMG_20221027_180043.jp-748x1000.jpg
+  sizes:
+  - IMG_20221027_180043.jp-748x1000.jpg
+  thumbnail: IMG_20221027_180043.jp-748x1000.jpg
+- filename: IMG_20221028_132709.jp
+  original: IMG_20221028_132709.jp-748x1000.jpg
+  sizes:
+  - IMG_20221028_132709.jp-748x1000.jpg
+  thumbnail: IMG_20221028_132709.jp-748x1000.jpg
+- filename: IMG_20221028_135857.jp
+  original: IMG_20221028_135857.jp-750x1000.jpg
+  sizes:
+  - IMG_20221028_135857.jp-750x1000.jpg
+  thumbnail: IMG_20221028_135857.jp-750x1000.jpg
+- filename: IMG_20221030_111423.jp
+  original: IMG_20221030_111423.jp-1000x748.jpg
+  sizes:
+  - IMG_20221030_111423.jp-1000x748.jpg
+  thumbnail: IMG_20221030_111423.jp-1000x748.jpg
+- filename: IMG_20221030_144013.jp
+  original: IMG_20221030_144013.jp-1000x748.jpg
+  sizes:
+  - IMG_20221030_144013.jp-1000x748.jpg
+  thumbnail: IMG_20221030_144013.jp-1000x748.jpg
+- filename: IMG_20221027_104602-img
+  original: IMG_20221027_104602-img-1920x1440.jpg
+  sizes:
+  - IMG_20221027_104602-img-1000x750.jpg
+  thumbnail: IMG_20221027_104602-img-1000x750.jpg
+- filename: IMG_20221027_115535-img
+  original: IMG_20221027_115535-img-1440x1920.jpg
+  sizes:
+  - IMG_20221027_115535-img-750x1000.jpg
+  thumbnail: IMG_20221027_115535-img-750x1000.jpg
+- filename: IMG_20221027_130232-img
+  original: IMG_20221027_130232-img-1920x1440.jpg
+  sizes:
+  - IMG_20221027_130232-img-1000x750.jpg
+  thumbnail: IMG_20221027_130232-img-1000x750.jpg
+- filename: IMG_20221027_141356-img
+  original: IMG_20221027_141356-img-1437x1920.jpg
+  sizes:
+  - IMG_20221027_141356-img-748x1000.jpg
+  thumbnail: IMG_20221027_141356-img-748x1000.jpg
+- filename: IMG_20221027_180045-img
+  original: IMG_20221027_180045-img-1437x1920.jpg
+  sizes:
+  - IMG_20221027_180045-img-748x1000.jpg
+  thumbnail: IMG_20221027_180045-img-748x1000.jpg
+- filename: IMG_20221028_100537-img
+  original: IMG_20221028_100537-img-1920x1440.jpg
+  sizes:
+  - IMG_20221028_100537-img-1000x750.jpg
+  thumbnail: IMG_20221028_100537-img-1000x750.jpg
+- filename: IMG_20221028_132710-img
+  original: IMG_20221028_132710-img-1437x1920.jpg
+  sizes:
+  - IMG_20221028_132710-img-748x1000.jpg
+  thumbnail: IMG_20221028_132710-img-748x1000.jpg
+- filename: IMG_20221028_135859-img
+  original: IMG_20221028_135859-img-1440x1920.jpg
+  sizes:
+  - IMG_20221028_135859-img-750x1000.jpg
+  thumbnail: IMG_20221028_135859-img-750x1000.jpg
+- filename: IMG_20221029_122043-img
+  original: IMG_20221029_122043-img-1440x1920.jpg
+  sizes:
+  - IMG_20221029_122043-img-750x1000.jpg
+  thumbnail: IMG_20221029_122043-img-750x1000.jpg
+- filename: IMG_20221029_122052-img
+  original: IMG_20221029_122052-img-1440x1920.jpg
+  sizes:
+  - IMG_20221029_122052-img-750x1000.jpg
+  thumbnail: IMG_20221029_122052-img-750x1000.jpg
+- filename: IMG_20221030_110308-img
+  original: IMG_20221030_110308-img-1920x1440.jpg
+  sizes:
+  - IMG_20221030_110308-img-1000x750.jpg
+  thumbnail: IMG_20221030_110308-img-1000x750.jpg
+- filename: IMG_20221030_111426-img
+  original: IMG_20221030_111426-img-1920x1437.jpg
+  sizes:
+  - IMG_20221030_111426-img-1000x748.jpg
+  thumbnail: IMG_20221030_111426-img-1000x748.jpg
+- filename: IMG_20221030_120114-img
+  original: IMG_20221030_120114-img-1440x1920.jpg
+  sizes:
+  - IMG_20221030_120114-img-750x1000.jpg
+  thumbnail: IMG_20221030_120114-img-750x1000.jpg
+- filename: IMG_20221030_144000-img
+  original: IMG_20221030_144000-img-1920x1440.jpg
+  sizes:
+  - IMG_20221030_144000-img-1000x750.jpg
+  thumbnail: IMG_20221030_144000-img-1000x750.jpg
+- filename: IMG_20221030_144014-img
+  original: IMG_20221030_144014-img-1920x1437.jpg
+  sizes:
+  - IMG_20221030_144014-img-1000x748.jpg
+  thumbnail: IMG_20221030_144014-img-1000x748.jpg
+- filename: IMG_20221030_153526-img
+  original: IMG_20221030_153526-img-1920x1440.jpg
+  sizes:
+  - IMG_20221030_153526-img-1000x750.jpg
+  thumbnail: IMG_20221030_153526-img-1000x750.jpg
+- filename: IMG_20221031_205022-img
+  original: IMG_20221031_205022-img-1440x1920.jpg
+  sizes:
+  - IMG_20221031_205022-img-750x1000.jpg
+  thumbnail: IMG_20221031_205022-img-750x1000.jpg

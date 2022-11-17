@@ -1,0 +1,113 @@
+picture_path: 11/gallery-1
+pictures:
+- filename: IMG_20221027_104602-img
+  original: IMG_20221027_104602-img-1920x1440.jpg
+  title: Odlet
+  caption: Odlétali jsme z letiště přímo v Taipeii. jede k němu i linka metra.
+  sizes:
+  - IMG_20221027_104602-img-1000x750.jpg
+  thumbnail: IMG_20221027_104602-img-1000x750.jpg
+- filename: IMG_20221027_115535-img
+  original: IMG_20221027_115535-img-1440x1920.jpg   
+  title: Pohled na národní park Yangminshan
+  sizes:
+  - IMG_20221027_115535-img-750x1000.jpg
+  thumbnail: IMG_20221027_115535-img-750x1000.jpg
+- filename: IMG_20221027_130232-img
+  original: IMG_20221027_130232-img-1920x1440.jpg
+  title: Mořeee!
+  caption: Pláž jménem Aimen. Za mě nejkrásnější na ostrově, možná i proto, že na ní tolik nefoukalo. Skvělé koupání.
+  sizes:
+  - IMG_20221027_130232-img-1000x750.jpg
+  thumbnail: IMG_20221027_130232-img-1000x750.jpg
+- filename: IMG_20221027_141356-img
+  original: IMG_20221027_141356-img-1437x1920.jpg
+  title: pohled při online hodině
+  caption: Měli tu zde i houpačku! Jen na ní právě sedím, tak není vidět.
+  sizes:
+  - IMG_20221027_141356-img-748x1000.jpg
+  thumbnail: IMG_20221027_141356-img-748x1000.jpg
+- filename: IMG_20221027_180045-img
+  original: IMG_20221027_180045-img-1437x1920.jpg
+  title: mořské potvory
+  caption: náš talíř, co jsme s radostí celý snědli.
+  sizes:
+  - IMG_20221027_180045-img-748x1000.jpg
+  thumbnail: IMG_20221027_180045-img-748x1000.jpg
+- filename: IMG_20221028_100537-img
+  original: IMG_20221028_100537-img-1920x1440.jpg
+  title: Anička a chrám
+  caption: Jen chrámy nějak nezvládám pojmenovávar, všechny vypadají krásně a podobně...
+  sizes:
+  - IMG_20221028_100537-img-1000x750.jpg
+  thumbnail: IMG_20221028_100537-img-1000x750.jpg
+- filename: IMG_20221028_132710-img
+  original: IMG_20221028_132710-img-1437x1920.jpg
+  title: Motorkáři
+  caption: Zde můžete vidět Davida, jak se mi směje, že neumím parkovat. Ale to kolo je jen na čáře, nepřekračuje, to se určitě může! Ale dobře... Když mě vyděsil při jízdě vítr a chtěla jsem motorku opustit co nejdřív. Později jsem si jízdu i začla užívat.
+  sizes:
+  - IMG_20221028_132710-img-748x1000.jpg
+  thumbnail: IMG_20221028_132710-img-748x1000.jpg
+- filename: IMG_20221028_135859-img
+  original: IMG_20221028_135859-img-1440x1920.jpg
+  title: Chrám!
+  sizes:
+  - IMG_20221028_135859-img-750x1000.jpg
+  thumbnail: IMG_20221028_135859-img-750x1000.jpg
+- filename: IMG_20221029_122043-img
+  original: IMG_20221029_122043-img-1440x1920.jpg
+  title: motorkář
+  sizes:
+  - IMG_20221029_122043-img-750x1000.jpg
+  thumbnail: IMG_20221029_122043-img-750x1000.jpg
+- filename: IMG_20221029_122052-img
+  original: IMG_20221029_122052-img-1440x1920.jpg
+  title: Nebude to se mnou tak špatný
+  sizes:
+  - IMG_20221029_122052-img-750x1000.jpg
+  thumbnail: IMG_20221029_122052-img-750x1000.jpg
+- filename: IMG_20221030_110308-img
+  original: IMG_20221030_110308-img-1920x1440.jpg
+  title: Xintai falešný kanón
+  caption: Japonci (okupovali Penghu) chtěli tímto betonovým kanonem zmátnout americké bombardéry za druhé světové. Cíl bylo, aby američani stříleli na falešný kanón a nikoliv na reálné o kus dál. 
+  sizes:
+  - IMG_20221030_110308-img-1000x750.jpg
+  thumbnail: IMG_20221030_110308-img-1000x750.jpg
+- filename: IMG_20221030_111426-img
+  original: IMG_20221030_111426-img-1920x1437.jpg
+  title: pohled na vesnici poblíž kanónu
+  caption: nenadchlo nás, když nám tam nedali jídlo. Restaurace už prý byla zavřená. Google nám tvrdil, že ještě není. Tak jsme popojeli o kus dál.
+  sizes:
+  - IMG_20221030_111426-img-1000x748.jpg
+  thumbnail: IMG_20221030_111426-img-1000x748.jpg
+- filename: IMG_20221030_120114-img
+  original: IMG_20221030_120114-img-1440x1920.jpg
+  title: okénko u pirátských jeskyní
+  caption: "Na google mapách jsou vyhledatelné pouze v čínštině: 外垵海賊洞. Dříve to bylo ve vojenské zóně, a ani teď o nich moc lidí neví. Byli jsme tam sami. Je to prý geologicky nejmladší oblast. Doporučuju prohlédnout všechny jeskyňky, při odlivu se jednou dá prolézt nečekaně až na druhou stranu. Při odlivu, protože jinak si na druhéstraně, co je níž dost možná zmáčíte boty. My to měli tak tak." 
+  sizes:
+  - IMG_20221030_120114-img-750x1000.jpg
+  thumbnail: IMG_20221030_120114-img-750x1000.jpg
+- filename: IMG_20221030_144000-img
+  original: IMG_20221030_144000-img-1920x1440.jpg
+  title: pobřeží u pirátské jeskyně
+  sizes:
+  - IMG_20221030_144000-img-1000x750.jpg
+  thumbnail: IMG_20221030_144000-img-1000x750.jpg
+- filename: IMG_20221030_144014-img
+  original: IMG_20221030_144014-img-1920x1437.jpg
+  title: útesy u velrybí jeskyně
+  sizes:
+  - IMG_20221030_144014-img-1000x748.jpg
+  thumbnail: IMG_20221030_144014-img-1000x748.jpg
+- filename: IMG_20221030_153526-img
+  original: IMG_20221030_153526-img-1920x1440.jpg
+  title: Velrybí jeskyně
+  sizes:
+  - IMG_20221030_153526-img-1000x750.jpg
+  thumbnail: IMG_20221030_153526-img-1000x750.jpg
+- filename: IMG_20221031_205022-img
+  original: IMG_20221031_205022-img-1440x1920.jpg
+  title: Cesta zpět
+  sizes:
+  - IMG_20221031_205022-img-750x1000.jpg
+  thumbnail: IMG_20221031_205022-img-750x1000.jpg
