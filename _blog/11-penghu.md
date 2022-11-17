@@ -30,13 +30,12 @@ Některé ostrovy Penghu jsou propojené mosty s ostrovem na který jsme přijel
 Penghu je známé větrnými mlýny a kaktusovou zmrzlinou. Mlýny jsme si užili. Ale u zmrzliny jsme selhali. Chtěli jsme na ni jít poslední den. Jenže to pršelo a my se vraceli na motorkách. Já značně vyklepaná. Vítr a ještě déšť při ježdění na motorce je děsivý. Motorky jsme vrátili dřív a šli se projít v dešti k soše velkého budhy u města. Na zmrzlinu jsme promočení a pak i prochladlí z klimatizace autobusu neměli náladu.
 
 
-Památky:
-- chrámy zasvěcené čínským bohům ztvárněné v podobě draků. 
-- pirátské jeskyně
-- velrybí oblouk 🐳
-- Xitai falešný kanón 
-
-Více info najdete v popiscích u obrázků.
+Památky a zajímavá místa:
+- **chrámy**: Na každém rohu zasvěcené čínským bohům ztvárněných v podobě draků. 
+- **pláž Aimen**:  Za mě nejkrásnější na ostrově, možná i proto, že na ní tolik nefoukalo. Skvělé koupání. Přežili jsme na ní online hodinu čínštiny.
+- **Xitai falešný kanón**: Japonci (okupovali Penghu) chtěli tímto betonovým kanonem zmátnout americké bombardéry za druhé světové. Cíl bylo, aby američani stříleli na falešný kanón a nikoliv na reálné o kus dál.
+- **pirátské jeskyně**: Na google mapách jsou vyhledatelné pouze v čínštině: 外垵海賊洞. Dříve to bylo ve vojenské zóně, a ani teď o nich moc lidí neví. Byli jsme tam sami. Je to prý geologicky nejmladší oblast. Doporučuju prohlédnout všechny jeskyňky, při odlivu se jednou dá prolézt nečekaně až na druhou stranu. Při odlivu, protože jinak si na druhé straně co je níž situovaná dost možná zmáčíte boty. My to měli tak tak.
+- **velrybí oblouk**🐳: Skalní útvar připomínající most.
 
 {% include gallery-layout.html gallery=site.data.galleries.11-gallery-1 id-number=1 %}
 
