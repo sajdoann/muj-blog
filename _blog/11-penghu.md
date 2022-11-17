@@ -9,7 +9,6 @@ support: [jquery, gallery]
 
 Ostrovy Penghu, stan u pláže a vichr 
 
-### Úvod
 Ve středu jsme se rozhodli, že na čtvrtek až pondělí poletíme za jediným hezkým počasím na celém Taiwanu. Tak jsme se dostali o Halloweenu na ostrovy Penghu. Tyto ostrovy leží mezi Taiwanem a Čínou. Řadí se pod Taiwan, a tak jsme je mohli navštívit. Zatím máme víza, které nám neumožňují vycestovat a zase se vrátit. Tedy toto, je asi nejdál kam se dostaneme. Zatím. 
 
 
