@@ -2,111 +2,104 @@ picture_path: 11/gallery-1
 pictures:
 - filename: IMG_20221027_104602-img
   original: IMG_20221027_104602-img-1920x1440.jpg
+  title: Odlet
   sizes:
   - IMG_20221027_104602-img-1000x750.jpg
   thumbnail: IMG_20221027_104602-img-1000x750.jpg
-  title: Odlet
 - filename: IMG_20221027_115535-img
-  original: IMG_20221027_115535-img-1440x1920.jpg
+  original: IMG_20221027_115535-img-1440x1920.jpg   
+  title: Pohled na národní park Yangminshan
   sizes:
   - IMG_20221027_115535-img-750x1000.jpg
   thumbnail: IMG_20221027_115535-img-750x1000.jpg
-  title: "Pohled na n\xE1rodn\xED park Yangminshan"
-- caption: "Pl\xE1\u017E jm\xE9nem Aimen. Za m\u011B nejkr\xE1sn\u011Bj\u0161\xED\
-    \ na ostrov\u011B, mo\u017En\xE1 i proto, \u017Ee na n\xED tolik nefoukalo. Skv\u011B\
-    l\xE9 koup\xE1n\xED."
-  filename: IMG_20221027_130232-img
+- filename: IMG_20221027_130232-img
   original: IMG_20221027_130232-img-1920x1440.jpg
+  title: Mořeee!
+  caption: Pláž jménem Aimen. Za mě nejkrásnější na ostrově, možná i proto, že na ní tolik nefoukalo. Skvělé koupání.
   sizes:
   - IMG_20221027_130232-img-1000x750.jpg
   thumbnail: IMG_20221027_130232-img-1000x750.jpg
-  title: "Mo\u0159eee!"
 - filename: IMG_20221027_141356-img
   original: IMG_20221027_141356-img-1437x1920.jpg
+  title: pohled při online hodině.
   sizes:
   - IMG_20221027_141356-img-748x1000.jpg
   thumbnail: IMG_20221027_141356-img-748x1000.jpg
-  title: "pohled p\u0159i online hodin\u011B."
 - filename: IMG_20221027_180045-img
   original: IMG_20221027_180045-img-1437x1920.jpg
+  title: mořské potvory
   sizes:
   - IMG_20221027_180045-img-748x1000.jpg
   thumbnail: IMG_20221027_180045-img-748x1000.jpg
-  title: "mo\u0159sk\xE9 potvory"
 - filename: IMG_20221028_100537-img
   original: IMG_20221028_100537-img-1920x1440.jpg
+  title: Anička a chrám
   sizes:
   - IMG_20221028_100537-img-1000x750.jpg
   thumbnail: IMG_20221028_100537-img-1000x750.jpg
-  title: "Ani\u010Dka a chr\xE1m"
 - filename: IMG_20221028_132710-img
   original: IMG_20221028_132710-img-1437x1920.jpg
+  title: David obdivuje mé parkovací schopnosti.
   sizes:
   - IMG_20221028_132710-img-748x1000.jpg
   thumbnail: IMG_20221028_132710-img-748x1000.jpg
-  title: "David obdivuje m\xE9 parkovac\xED schopnosti."
-- filename: IMG_20221029_145549-img
-  original: IMG_20221029_145549-img-688x920.jpg
-  title: Větrný mlýn
-  sizes: []
-  thumbnail: IMG_20221029_145549-img-688x920.jpg
 - filename: IMG_20221028_135859-img
   original: IMG_20221028_135859-img-1440x1920.jpg
+  title: Chrám!
   sizes:
   - IMG_20221028_135859-img-750x1000.jpg
   thumbnail: IMG_20221028_135859-img-750x1000.jpg
-  title: "Chr\xE1m!"
 - filename: IMG_20221029_122043-img
   original: IMG_20221029_122043-img-1440x1920.jpg
+  title: motorkář
   sizes:
   - IMG_20221029_122043-img-750x1000.jpg
   thumbnail: IMG_20221029_122043-img-750x1000.jpg
-  title: "motork\xE1\u0159"
 - filename: IMG_20221029_122052-img
   original: IMG_20221029_122052-img-1440x1920.jpg
+  title: Nebude to se mnou tak špatný
   sizes:
   - IMG_20221029_122052-img-750x1000.jpg
   thumbnail: IMG_20221029_122052-img-750x1000.jpg
-  title: "Nebude to se mnou tak \u0161patn\xFD"
 - filename: IMG_20221030_110308-img
   original: IMG_20221030_110308-img-1920x1440.jpg
+  title: Xintai falešný kanón
   sizes:
   - IMG_20221030_110308-img-1000x750.jpg
   thumbnail: IMG_20221030_110308-img-1000x750.jpg
-  title: "Xintai fale\u0161n\xFD kan\xF3n"
 - filename: IMG_20221030_111426-img
   original: IMG_20221030_111426-img-1920x1437.jpg
+  title: pohled na vesnici poblíž kanónu.
   sizes:
   - IMG_20221030_111426-img-1000x748.jpg
   thumbnail: IMG_20221030_111426-img-1000x748.jpg
-  title: "pohled na vesnici pobl\xED\u017E kan\xF3nu."
 - filename: IMG_20221030_120114-img
   original: IMG_20221030_120114-img-1440x1920.jpg
+  title: okénko u pirátských jeskyní
   sizes:
   - IMG_20221030_120114-img-750x1000.jpg
   thumbnail: IMG_20221030_120114-img-750x1000.jpg
-  title: "ok\xE9nko u pir\xE1tsk\xFDch jeskyn\xED"
 - filename: IMG_20221030_144000-img
   original: IMG_20221030_144000-img-1920x1440.jpg
+  title: pobřeží u pirátské jeskyně
   sizes:
   - IMG_20221030_144000-img-1000x750.jpg
   thumbnail: IMG_20221030_144000-img-1000x750.jpg
-  title: "pob\u0159e\u017E\xED u pir\xE1tsk\xE9 jeskyn\u011B"
 - filename: IMG_20221030_144014-img
   original: IMG_20221030_144014-img-1920x1437.jpg
+  title: útesy u velrybí jeskyně
   sizes:
   - IMG_20221030_144014-img-1000x748.jpg
   thumbnail: IMG_20221030_144014-img-1000x748.jpg
-  title: "\xFAtesy u velryb\xED jeskyn\u011B"
 - filename: IMG_20221030_153526-img
   original: IMG_20221030_153526-img-1920x1440.jpg
+  title: Velrybí jeskyně
   sizes:
   - IMG_20221030_153526-img-1000x750.jpg
   thumbnail: IMG_20221030_153526-img-1000x750.jpg
-  title: "Velryb\xED jeskyn\u011B"
 - filename: IMG_20221031_205022-img
   original: IMG_20221031_205022-img-1440x1920.jpg
+  title: Cesta zpět
   sizes:
   - IMG_20221031_205022-img-750x1000.jpg
   thumbnail: IMG_20221031_205022-img-750x1000.jpg
-  title: "Cesta zp\u011Bt"

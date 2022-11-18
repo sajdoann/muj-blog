@@ -680,3 +680,7 @@ pictures:
   sizes:
   - IMG_20221031_205022-img-750x1000.jpg
   thumbnail: IMG_20221031_205022-img-750x1000.jpg
+- filename: IMG_20221029_145549.jp
+  original: IMG_20221029_145549.jp-688x920.jpg
+  sizes: []
+  thumbnail: IMG_20221029_145549.jp-688x920.jpg

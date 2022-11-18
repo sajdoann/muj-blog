@@ -7,21 +7,21 @@ date: 2022-11-14
 support: [jquery, gallery]
 ---
 
-Ostrovy Penghu, stan u pláže a vichr 
+Ostrovy Penghu, stan u pláže a vichr💨 
 
 Ve středu jsme se rozhodli, že na čtvrtek až pondělí poletíme za jediným hezkým počasím na celém Taiwanu. Tak jsme se dostali o Halloweenu na ostrovy Penghu. Tyto ostrovy leží mezi Taiwanem a Čínou. Řadí se pod Taiwan, a tak jsme je mohli navštívit. Zatím máme víza, které nám neumožňují vycestovat a zase se vrátit. Tedy toto, je asi nejdál kam se dostaneme. Zatím. 
 
 
 <img src="/images/11/location.png" alt="Location of penghu">
 
-Kupodivu Čína plně uznává, že tyto ostrovy jsou území patřící k Taiwanu. Ale přeci Taiwan podle nich patří Číně, tak to není problém, se to zpropaguje dolů. 
+Kupodivu Čína plně uznává, že tyto ostrovy jsou území patřící k Taiwanu. Ale přeci Taiwan podle nich patří Číně, tak to není problém... 
 
-### Odbočka
-Ješte jsem tu nemluvila o politice jedné Číny. Taiwan se nazývá Čínská republika. Oficiální název Číny je Čínská **lidová** republika. No a v roce 1992 se oba státy dohodly, že existuje pouze jedna Čína. Jen se tedy neshodly, která přesně Čína to je. A tak si dodnes tenhle malý státeček "nárokuje" celou Čínu. Zdá se logičtější první vyhlásit nezávislot. Bohužel Čína je velký pán, a tak tomu obavy válečného konfliktu zabraňují. Taiwan **ne**uznává jako suverení stát většina zemí (cca 14 zemí světa ho uznává). 
+### Odbočka 
+Ješte jsem tu nemluvila o **politice jedné Číny**. Taiwan se nazývá Čínská republika. Oficiální název Číny je Čínská **lidová** republika. No a v roce 1992 se oba státy dohodly, že existuje pouze jedna Čína. Jen se tedy neshodly, která přesně Čína to je. A tak si dodnes tenhle malý státeček "nárokuje" celou Čínu. Zdá se logičtější první vyhlásit nezávislot. Bohužel Čína je velký pán, a tak tomu obavy válečného konfliktu zabraňují. Taiwan **ne**uznává jako suverení stát většina zemí (cca 14 zemí světa ho uznává). 
  
 
 ### O Penghu
-První den, čtvrtek, jsme museli přežít hodinu čínštiny online. Zaparkovali jsme se na pláži hned u letiště. Já pustila na mobilu čínštinu a následující 3 hodiny jsme se váleli na pláži a poslouchali, případně odpovídali učitelce. Na konci lekce jsme měli dražbu. Každý si měl vybrat předmět z jeho okolí co prodá. Mnoo..., zapínat kameru, že jsem na pláži, se mi moc nechtělo, ale když už tu jsem, tak jsem to proměnila ve výhodu. Dražila jsem místní loď (stará pramice). Uznejte, že dražit propisku nebo třeba židli je oproti tomu nuda :D.
+Odlétali jsme z letiště🛫 přímo v Taipeii. Dokonce i přímo k němu vede linka metra. První den, čtvrtek, jsme museli přežít hodinu čínštiny online. Zaparkovali jsme se na pláži hned u letiště. Já pustila na mobilu čínštinu a následující 3 hodiny jsme se váleli na pláži a poslouchali, případně odpovídali učitelce. Na konci lekce jsme měli dražbu. Každý si měl vybrat předmět z jeho okolí co prodá. Mnoo..., zapínat kameru, že jsem na pláži, se mi moc nechtělo, ale když už tu jsem, tak jsem to proměnila ve výhodu. Dražila jsem místní loď (stará pramice). Uznejte, že dražit propisku nebo třeba židli je oproti tomu nuda :D.
 
 Večer jsme si došli do restaurace s mořskými specialitami. Dali jsme si talíř, co měl od každého trochu. Zejména krevety si tu u moře dávám hodně často. Už od mala je mám fakt ráda a tady jsou za rozumnou cenu. Na talíři jsme obdrželi i chobotnice, škeble a mušle.
 
@@ -41,11 +41,12 @@ Penghu je známé větrnými mlýny a kaktusovou zmrzlinou. Mlýny jsme si užil
 
 
 Památky a zajímavá místa:
-- **chrámy**: Na každém rohu zasvěcené čínským bohům ztvárněných v podobě draků. Někdy musím napsat o místní míchanici náboženství, ale zatím se necítím kvalifikovaně. 😆
-- **pláž Aimen**:  Za mě nejkrásnější na ostrově, možná i proto, že na ní tolik nefoukalo. Skvělé koupání. Přežili jsme na ní online hodinu čínštiny.
+- **chrámy**🏯: Na každém rohu zasvěcené čínským bohům ztvárněných v podobě draků🐉. Někdy musím napsat o místní míchanici náboženství, ale zatím se necítím kvalifikovaně. 😆
+- **pláž Aimen**🏝️:  Za mě nejkrásnější na ostrově, možná i proto, že na ní tolik nefoukalo. Skvělé koupání. Přežili jsme na ní online hodinu čínštiny.
 - **Xitai falešný kanón**: Japonci (okupovali Penghu) chtěli tímto betonovým kanonem zmátnout americké bombardéry za druhé světové. Cíl bylo, aby američani stříleli na falešný kanón a nikoliv na reálné o kus dál.
-- **pirátské jeskyně**: Na google mapách jsou vyhledatelné pouze v čínštině: 外垵海賊洞. Dříve to bylo ve vojenské zóně, a ani teď o nich moc lidí neví. Byli jsme tam sami. Je to prý geologicky nejmladší oblast. Doporučuju prohlédnout všechny jeskyňky, při odlivu se jednou dá prolézt nečekaně až na druhou stranu. Při odlivu, protože jinak si na druhé straně co je níž situovaná dost možná zmáčíte boty. My to měli tak tak.
+- **pirátské jeskyně**🦜: Na google mapách jsou vyhledatelné pouze v čínštině: 外垵海賊洞. Dříve to bylo ve vojenské zóně, a ani teď o nich moc lidí neví. Byli jsme tam sami. Je to prý geologicky nejmladší oblast. Doporučuju prohlédnout všechny jeskyňky, při odlivu se jednou dá prolézt nečekaně až na druhou stranu. Při odlivu, protože jinak si na druhé straně co je níž situovaná dost možná zmáčíte boty. My to měli tak tak.
 - **velrybí oblouk**🐳: Skalní útvar připomínající most.
+-**větrné mlýny**: Na Penghu od podzimu do jara fouká silný vítr. Zcela ideální podmínky pro stavbu větrných elektráren. Turisté se sem tedy vydávají většinou pouze od května do září. Silné poryvy větru odradili od půjčení si motorky několik taiwanských turistů s kterými jsme mluvili. Sklízeli jsme za to obdivné pohledy. Z naší strany to nic hrdinského nebylo. Nevěděli jsme, že na Penghu v zimě fouká až tak silně. Nic nás z motorky naštěstí nesrazilo.   
 
 {% include gallery-layout.html gallery=site.data.galleries.11-gallery-1 id-number=1 %}
 

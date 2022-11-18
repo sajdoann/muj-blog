@@ -61,18 +61,12 @@ a.nav-link {
 /***********************************************************/
 
 
-h3.entry-title.p-name a {
-    color: black;
-}
-
 h1.headline {
     font-weight: bold;
     font-size: xx-large;
     font-family: fantasy;
     display: inline;
 }
-
-
 
 h1#page-title {
     font-weight: bold;
@@ -94,9 +88,9 @@ a.a-headline:visited, a.a-headline {
 	text-decoration:  none !important;
 }
 
-/*a:visited{
-		color: black !important;
-}*/
+.entry-title a {
+    color: black;
+}
 
 a.social-icon {
     padding: 3px; 
@@ -178,6 +172,13 @@ a:visited.page-previous {
     color: black;
 }
 
+a.page-next {
+    color: black;
+}
+
+a.page-previous {
+     color: black;
+}
 
 /**************** entries grid *************************************/
 /*layout for index.html*/
