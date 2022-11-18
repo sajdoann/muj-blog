@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+  <mate name="title" property="og:title" content="Andy cesty">
   <title> Andy cesty </title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,11 +13,12 @@
 
 <script src="/assets/js/main.js"></script>
 
+  <meta name="twitter:card" content="summary_large_image">
+  
   <meta name="description" property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <meta name='image' property="og:image" content="{{site.image}}"
   >
-<meta name="twitter:card" content="summary" />
 
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/{{ page.url | replace:'index.html','' }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/{{ "feed.xml" }}">
