@@ -13,9 +13,11 @@
 
 <script src="/assets/js/main.js"></script>
 
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <meta name='image' property="og:image" content="/favicons/preview.jpg">
+  <meta name='image' property="og:image" content="{{site.image}}"
+  >
+<meta name="twitter:card" content="summary" />
 
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/{{ page.url | replace:'index.html','' }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/{{ "feed.xml" }}">

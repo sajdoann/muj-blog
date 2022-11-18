@@ -11,7 +11,7 @@ author: sajdoann
 email: sajdokova@gmail.com
 github_username:  sajdoann # DO NOT include the @ character, or else the build will fail!
 locale: cs-CZ
-
+image: "/favicons/preview.jpg"
 
 read_time: true
 words_per_minute: 200
