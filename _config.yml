@@ -13,7 +13,6 @@ github_username:  sajdoann # DO NOT include the @ character, or else the build w
 locale: cs-CZ
 
 
-logo: /favicons/android-chrome-384x384.png
 read_time: true
 words_per_minute: 200
 
