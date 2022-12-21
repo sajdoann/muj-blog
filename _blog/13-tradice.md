@@ -7,7 +7,7 @@ image:
 support: [jquery, gallery]
 ---
 
-Náboženství na Taiwanu, operace Sanxia 🐉.
+Náboženství na Taiwanu, operace Sanxia. 🐉
 
 Na Taiwanu mě hodně překvapilo náboženství. Chrám je tu pro všechny. Je jedno zda zrovna vyznáváte budhismus, taoismus nebo konfucionismus, prostě se pomodlete. Chrámy tu jsou občas směsice vícero náboženství. A tak se stane, že vedle budhy najdete třeba čínské lidové bůžky a bohyni Matsu.
 
