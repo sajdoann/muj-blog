@@ -9,7 +9,7 @@ support: [jquery, gallery]
 
 Jednodenní 36 kilomentrový výletík očima Davida. 🗻 
 
-Když Adam pozval Aničku s Pavlem na jednodenní výlet do hor neřekl jim jak daleko to bude. A to bylo dobře, ono 35 km v horách za den by Aničku jinak určitě odradilo. Když pak přizvali i mě, a zjistili si trasu([zde](https://en.mapy.cz/s/pojaluhuha)), náležitě nás to vyděsilo. Ale co, už jsme řekli, že pojedeme a taková příležitost se nemusí už znovu vyskytnout. 
+Když Adam pozval Aničku s Pavlem na jednodenní výlet do hor neřekl jim jak daleko to bude. A to bylo dobře, ono 36 km v horách za den by Aničku jinak určitě odradilo. Když pak přizvali i mě, a zjistili si trasu([zde](https://en.mapy.cz/s/pojaluhuha)), náležitě nás to vyděsilo. Ale co, už jsme řekli, že pojedeme - taková příležitost se znovu nemusí vyskytnout. 
 
 Plán byl vyjet ve 3 ráno z Banquio. Pro mě žádný problém 15 minut na ubiku a jsem tam ale Anička by to měla přes celé město a metro v noci nejezdí... Tak jsme se rozhodli že jí propašujeme k nám na koleje. A tak se Anička v kapuce s rouškou úspěšně propašoval ke mě do pokoje na kolej. Naštěstí jsme nikoho nepotkali. Po krátkem spánku jsme vyrazili na sraz na kolech. Jeli jsme za Pavlem, kterému nikdo neřekl, že červená platí i pro kola, tak jsme měli co dělat, aby nám neujel.
 
