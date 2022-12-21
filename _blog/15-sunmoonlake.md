@@ -18,5 +18,7 @@ Poslední den jsme přepluli lodí na druhou stranu jezera, vyjeli lanovkou a na
 
 Večer jsme dojeli zpět do Taichungu, zajeli jsme metrem na night market. Moje oblíbené kukuřice tu byly 3x levnější a všechno jídlo bylo sladší. David si dal oliheň. Zpět k rychlovlaku jsme jeli na ubike (kola, co máme k měsíční jízdence zdarma). Před půlnocí jsme se dostali zpět do Taipei.
 
+Na první fotce David staví svou vlastní cestu v mountaineering klubu:)
+
  {% include gallery-layout.html gallery=site.data.galleries.15-gallery-1             id_number=1 %}
 
