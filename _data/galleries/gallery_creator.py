@@ -10,7 +10,7 @@ import yaml, imagesize
 from os import listdir, rename
 from os.path import isfile, join
 
-num = 15
+num = 16
 # configuration
 output_file = f"{num}-gallery-1.yml"
 input_file = output_file
