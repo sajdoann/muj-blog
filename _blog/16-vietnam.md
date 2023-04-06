@@ -15,8 +15,15 @@ Do Vietnamu jsou potřeba víza. Vietnamci z mé zkušenosti rádi dělají skem
 Vietnamská ambasáda byl chodící cirkus. S vízy nám nepomohli. A tak jsme si s Dejvem připlatili za expresní víza od externí firmy, co jsme našli na internetu. Doufali jsme jen, že to není skemm. Okolo oběda jsme byli na letišti a externí firma nám slíbila, že víza zařídí do 15:00. V 15:20 zavírali check in, tak jsme byli nervozní jako sáňky v létě. Už jsme plánovali, který jiný let vezmem až nás nepustí do letadla, že nemáme víza (na velkých letištích jdou občas dostat víza i po příletu, na našem ne). Stáli jsme v check-in frontě a jednou jsme museli jít zas na konec fronty, protože víza stále nikde. Těsně před třetí jsme je dostali, jupí! Přirážka byla cca 4 tisíce na jedny víza, tj. dvakrát dražší než naše super levné letenky, drahá sranda, ale co se dá dělat…
 
 ## O Vietnamu
+Vietnam je země v jihovýchodní Asii. Žije zde 97 miliónů obyvatel. A tvar se dá popsat jako dlouhá nudle. Občas tuto zemi lidé přejíždí na motorce, my jsme se rozhodli že 3 týdny nejsou dost času a tak jsme si vybrali, že navštívíme jih a přeletíme na sever.
+
+<img src="/images/16/vietnam-map.jpg" alt="Vietnam map">
+
 Vietnamu vládne komunistická strana. Na ulici běžně uvidíte vlajku se srpem a kladivem, propaganda tam jede na plné obrátky. Stopy po vietnamské válce (1955–1975) mezi Severním komunistickým Vietnamem (vietkong, podporovaný sověty) a Jižním Vietnamem (podporovaným zejména Amerikou) najdete všude. Američané se v této válce dopustili zvěrstev jako pouštění toxického plynu tzv. [Agent orange](https://en.wikipedia.org/wiki/Agent_Orange). Nakonec severní Vietnam v čele s Ho Chi Minem vyhrál.
-Jídlo je levné a výborné.
+
+Jídlo je levné a výborné. Používají čerstvé ingredience a aromatické byliny. Mezi nejznámější vietnamská jídla patří phở (polévka s nudlemi). Často v jídle najdete koriandr -- někdo ho nesnáší, jiní ho milují :).
+
+
 Jelikož jsme cestu nijak extra neplánovali nabídnu spíš útržky zážitků a tipy ze zajímavých míst. Jeli jsme jih do Can tho a přelétali jsme z Nha Trang na sever do Hanoie. Konkrétní lety a letiště jsme si vybrali kvůli levným letenkám, co jsme našli na [traveloce](https://m.traveloka.com/en-en/flight).
 
 ## JIH
