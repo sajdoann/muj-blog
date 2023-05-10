@@ -1,0 +1,31 @@
+picture_path: 17/gallery-1
+pictures:
+- filename: a
+  original: a-2048x1536.jpg
+  sizes: []
+  thumbnail: a-2048x1536.jpg
+- filename: IMG-20230412
+  original: IMG-20230412-1200x1600.jpg
+  sizes:
+  - IMG-20230412-1600x1200.jpg
+  thumbnail: IMG-20230412-1200x1600.jpg
+- filename: IMG_20230411_100557-img
+  original: IMG_20230411_100557-img-3024x4032.jpg
+  sizes: []
+  thumbnail: IMG_20230411_100557-img-3024x4032.jpg
+- filename: IMG_20230501_094102-img
+  original: IMG_20230501_094102-img-3024x4032.jpg
+  sizes: []
+  thumbnail: IMG_20230501_094102-img-3024x4032.jpg
+- filename: IMG_20230501_101832-img
+  original: IMG_20230501_101832-img-3024x4032.jpg
+  sizes: []
+  thumbnail: IMG_20230501_101832-img-3024x4032.jpg
+- filename: IMG_20230501_102704-img
+  original: IMG_20230501_102704-img-3024x4032.jpg
+  sizes: []
+  thumbnail: IMG_20230501_102704-img-3024x4032.jpg
+- filename: z
+  original: z-3024x4032.jpg
+  sizes: []
+  thumbnail: z-3024x4032.jpg

@@ -9,11 +9,19 @@ __license__ = 'BSD-3-Clause'
 import yaml, imagesize
 from os import listdir, rename
 from os.path import isfile, join
+import sys
+
+try:
+    folder_number = sys.argv[1]
+    gallery_number = sys.argv[2]
+except:
+    print("You need to provide folder as an argument!")
+    quit()
 
 # configuration
 output_file = "tmp.yml"
 input_file = output_file
-image_path = "16/gallery-1"
+image_path = f"{folder_number}/gallery-{gallery_number}"
 extensions= ['jpg', 'png']
 
 # set correct path

@@ -1,0 +1,34 @@
+picture_path: 17/gallery-5
+pictures:
+- filename: 0-img
+  original: 0-img-2160x3840.jpg
+  sizes: []
+  thumbnail: 0-img-2160x3840.jpg
+- filename: IMG_20230417_145630-img
+  original: IMG_20230417_145630-img-3024x4032.jpg
+  sizes: []
+  thumbnail: IMG_20230417_145630-img-3024x4032.jpg
+- filename: IMG_73-img
+  original: IMG_73-img-4032x3024.jpg
+  sizes: []
+  thumbnail: IMG_73-img-4032x3024.jpg
+- filename: IMG_7646-img
+  original: IMG_7646-img-4032x3024.jpg
+  sizes: []
+  thumbnail: IMG_7646-img-4032x3024.jpg
+- filename: IMG_7671-img
+  original: IMG_7671-img-3024x4032.jpg
+  sizes: []
+  thumbnail: IMG_7671-img-3024x4032.jpg
+- filename: IMG_7686-img
+  original: IMG_7686-img-959x719.jpg
+  sizes: []
+  thumbnail: IMG_7686-img-959x719.jpg
+- filename: IMG_7779-img
+  original: IMG_7779-img-959x719.jpg
+  sizes: []
+  thumbnail: IMG_7779-img-959x719.jpg
+- filename: IMG_7802-img
+  original: IMG_7802-img-4032x3024.jpg
+  sizes: []
+  thumbnail: IMG_7802-img-4032x3024.jpg

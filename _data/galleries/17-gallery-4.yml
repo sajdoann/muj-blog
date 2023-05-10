@@ -1,0 +1,41 @@
+picture_path: 17/gallery-4
+pictures:
+- filename: IMG-20230414
+  original: IMG-20230414-1024x768.jpg
+  sizes:
+  - IMG-20230414-768x1024.jpg
+  - IMG-20230414-959x719.jpg
+  thumbnail: IMG-20230414-959x719.jpg
+- filename: IMG-20230417
+  original: IMG-20230417-1024x768.jpg
+  sizes:
+  - IMG-20230417-768x1024.jpg
+  thumbnail: IMG-20230417-1024x768.jpg
+- filename: IMG_7327_exported_2133_1682565932163.jp
+  original: IMG_7327_exported_2133_1682565932163.jp-1440x1920.jpg
+  sizes: []
+  thumbnail: IMG_7327_exported_2133_1682565932163.jp-1440x1920.jpg
+- filename: IMG_7372.jp
+  original: IMG_7372.jp-636x849.jpg
+  sizes: []
+  thumbnail: IMG_7372.jp-636x849.jpg
+- filename: IMG_7373.jp
+  original: IMG_7373.jp-636x849.jpg
+  sizes: []
+  thumbnail: IMG_7373.jp-636x849.jpg
+- filename: IMG_7423.jp
+  original: IMG_7423.jp-636x849.jpg
+  sizes: []
+  thumbnail: IMG_7423.jp-636x849.jpg
+- filename: IMG_7431.jp
+  original: IMG_7431.jp-636x849.jpg
+  sizes: []
+  thumbnail: IMG_7431.jp-636x849.jpg
+- filename: IMG_7515.jp
+  original: IMG_7515.jp-636x849.jpg
+  sizes: []
+  thumbnail: IMG_7515.jp-636x849.jpg
+- filename: PXL_20230415_100056811.jp
+  original: PXL_20230415_100056811.jp-959x719.jpg
+  sizes: []
+  thumbnail: PXL_20230415_100056811.jp-959x719.jpg
