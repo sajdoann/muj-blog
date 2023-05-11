@@ -14,14 +14,15 @@ Chtěla bych vám tu popsat místa, kam jsme vzali rodiče. Vybrali jsme jim to 
 
 Jelikož cestujeme na Taiwanu s Dejvem už cca 3/4 roku, myslím, že máme dobrou představu, kam se podívat. Byla by škoda to nikam nezveřejnit. A hele já mám vlastně blog…
 
-Jelikož má mamka s kamarádkou Simčou přijeli o týden dřív než Davidovi rodiče, část jsem absolvovala s mamkou, část s Horskými. 
+Má mamka s kamarádkou Simčou přijeli o týden dřív než Davidovi rodiče, část jsem absolvovala s mamkou, část s Horskými. 
 Proto zde nepíšu konkrétní dny, ale udělám výtah míst, kam se podívat. 
 Také občas upozorňuji, kam se dá hůře dostat hromadnou dopravou, a jestli to za to vůbec stojí. 
 Nechce se mi tyto ideální krátké zastávky autem vynechat úplně, kdyby si ho někdo půjčoval/měl skůtr, ale také nejsou tak důležité aby se nedali vynechat zvolíte-li hromadnou dopravu.
 
 Všechna místa pohromadě najdete v jednom [google mapy seznamu zde](https://goo.gl/maps/G3GaNgj2tqYPdr8t9). Všechny fotky jsou dole:).
 
-TL;DR před odjezdem: 
+
+#### TL;DR před odjezdem: 
 - Zamluvte si několik týdnů dopředu [Zhuilu old road](https://goo.gl/maps/6p6sDkyc2JdNYB46A) [zde](https://npm.cpami.gov.tw/en/index.aspx) (nejhezčí denní trek) a Yushan [zde](https://npm.cpami.gov.tw/en/apply_1_2.aspx?unit=c951cdcd-b75a-46b9-8002-8ef952ec95fd) (nejvyšší hora)
 - Stáhněte si offline verzi map Taiwanu na mapy.cz a z play store aplikaci na kontrolu času odjezdů [BUS+](https://play.google.com/store/apps/details?id=hearsilent.busplus) 
 - konvertor na nabíjení i simku můžete sehnat na místě, či předobjednat. Největší pokrytí i rozumné ceny má Chungwa telecom.
@@ -80,7 +81,7 @@ Případně pokud máte auto doporučuji jet z [Keelungu](https://goo.gl/maps/XK
 
 Hezký výletík z Taipeie železnicí do tradiční vesničky jménem [Shifen](https://goo.gl/maps/cYeW4oE4pcnPtM5L7). My to měli jako zábavu při vlakovém přejezdu z Taipeie do Taroka (není to zcela po cestě).
 - Lampióny 
-  - Užijete si malování lampiónů a jejich následné pouštění na vlakových kolejích. Pokud zrovna jede vlak tak musíte uskočit, ale to vám místní řeknou dopředu:) Prý lampiony nezpůsobují požáry a rozloží se (nevím, zda se tomu dá věřit, ale jedou za život si lampion pustím:).
+  - Užijete si malování lampiónů a jejich následné pouštění na vlakových kolejích. Pokud zrovna jede vlak, tak musíte uskočit, ale to vám místní řeknou dopředu:) Prý lampiony nezpůsobují požáry a rozloží se (nevím, zda se tomu dá věřit, ale jedou za život si lampion pustím:).
 - [Vodopád](https://goo.gl/maps/QZSzg5QEyxVH68946)
   - Menší zacházka z vesničky Shifen na dost turisticky profláklé vodopády (ale jsou fakt hezké.).
 
@@ -127,7 +128,7 @@ V Taroku jezdí autobusy. Jezděte s nimi, parkovat skůtr či auto jde, ale je 
 ## 🚶🏻 Východní pobřeží
 Na tyto atrakce je potřeba vlastní doprava (skůtr/auto/stop)
 -  Walami trail
-  - Dobrá zpráva [Walami trail](https://goo.gl/maps/JC9QmrJTAopgSHMRA) prvních pár kilometrů můžete jít bez permitu. 
+    - Dobrá zpráva [Walami trail](https://goo.gl/maps/JC9QmrJTAopgSHMRA) prvních pár kilometrů můžete jít bez permitu. 
   Špatná zpráva, autobus končí 6km před začátkem trasy, tj zbytek doťapkat či si půčit scooter (za mě asi nej možnost), potažmo auto.
   Krásná japonská cesta s výhledy na hory a sesuvy. Má několik visutých mostů.
 - Technicky sem patří i [Útesy Qingshui a pláž](https://goo.gl/maps/qcAmCpf9LGdecCJh8) již zmíněné nahoře.
@@ -165,7 +166,7 @@ Jeskyně v parku jsou poměrně hezké. Šnorchlování u jaderné elekrárny v 
 ## 🗻 Yushan
 <img src="/images/17/yushan.jpg" alt="yushan obrázky" width="135" height="240" style="float: right;margin-left:5px">
 
-- My šli na [Yushan front peak](https://goo.gl/maps/2bKB33aFJVRiCaXF9) (jednodenní záležitost, Yushan main peak se chodí na dva dny). Je to nejvyšší hora Taiwanu a je naní potřeba permit. Policejní permit se řeší na místě, mějte 2 kopie permitu, jednu odevzdáte na policii přímo u vstupu na trek. 
+- My šli na [Yushan front peak](https://goo.gl/maps/2bKB33aFJVRiCaXF9) (jednodenní záležitost, Yushan main peak se chodí na dva dny). Je to nejvyšší hora Taiwanu a je na ní potřeba permit. Policejní permit se řeší na místě, mějte 2 kopie permitu, jednu odevzdáte na policii přímo u vstupu na trek. 
   - Od místa kde se dá parkovat (a předkládá se permit), jezdí ještě autobus (odjíždí když se naplní). Autobus není potřeba rezerovat.
 - [Yunlong vodopády](https://goo.gl/maps/i3pkr9EhZar4bgU76)
 	- Krásný trek k vodopádu, dávejte pozor na cestu místy je to příkré a padají šutry!
@@ -178,7 +179,9 @@ Jeskyně v parku jsou poměrně hezké. Šnorchlování u jaderné elekrárny v 
 
 
 ## Fotky
+
 \# mód zvětšení
+
 Pokud chcete pohlédnout vše ve zvětšení je si potřeba odscrollovat ke každému nadpisu 
 a tam si zas kliknout na fotku a prohlédnout si dannou sekci šipkami (šipky vás neodkážou na další sekci (třeba Taroko), ale zacyklí vás).
 
